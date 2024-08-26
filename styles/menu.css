@@ -1,0 +1,115 @@
+menu {
+    position: relative;
+    background-color: rgb(255, 208, 0);
+    min-width: inherit;
+    font-size: var(--font-size);    
+    color: var(--font-color-dark);
+}
+menu > div {
+    position: fixed;
+}
+
+.cursor-pointer,
+.cursor-pointer * {
+    cursor: pointer !important;
+}
+
+menu * {
+    transition: all .3s;
+}
+
+menu>span {
+    cursor: default;
+}
+
+.menu-btn {
+    background-color: red;
+    position: fixed;
+    z-index: 3;
+    bottom: 1em;
+    right: 1em;
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: .5em;
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 50%;
+}
+
+menu.active>.menu-btn {
+    bottom: -3em;
+}
+
+menu img {
+    max-width: 1.5em;
+    max-height: 1.5em;
+    transform: translate(5%, 7%);
+}
+
+menu span {
+    display: flex;
+    align-items: center;
+    cursor: default;
+}
+
+.menu-bar {
+    /* font: var(--font-color); */
+    display: grid;
+    position: fixed;
+    bottom: -10em;
+    right: 1em;
+    z-index: 1;
+    padding: .5em .5em;
+    gap: .3em;
+    background-color: var(--menu-bg-color);
+    border-radius: .3em;
+    border: dashed 2px;
+
+}
+
+menu.active>.menu-bar {
+    bottom: 1em;
+}
+
+.menu-bar>* {
+    display: flex;
+    justify-content: space-between;
+    gap: .7em;
+    margin: 0 1em;
+}
+
+.menu-bar .action-row {
+    align-items: end;
+}
+
+.menu-bar .action-row > button {
+    /* width: 2.5em; */
+    /* height: 2.5em; */
+    font-size: .9em;
+    font-weight: bolder;
+    padding: 0;
+}
+
+#hide {
+    position: relative;
+    width: max-content;
+    margin: .2em auto;
+    padding: .2em 1em;
+    border-radius: .5em;
+    color: var(--font-color-light) !important;
+    background-color: red;
+}
+
+.menu-bar#hide>img {
+    max-height: 1em;
+}
+
+.menu-bar#hide:hover {
+    filter: brightness(80%);
+}
+
+.menu-bar#hide:active {
+    scale: .9;
+}

@@ -1,0 +1,112 @@
+:root {
+    --font-size: 1.2rem;
+    --chords-color: #FF4136;
+
+    /* Dark mode */
+    --dark-html-bg-color: #1b1a18;
+    --bg-color-dark: #2b2928;
+    --font-color-light: white;
+    --link-color-light: #9e9eff;
+
+    /* light mode*/
+    --light-html-bg-color: #1b1a18e0;
+    --bg-color-light: #f8f5ec;
+    --font-color-dark: #3c3b3a;
+    --link-color-dark: hsl(3, 100%, 60%);
+
+    /* Menu styling */
+    --menu-bg-color: #e3e8f0;
+    --slider-bg-inactive: #25000a;
+    --slider-bg-active: #8b2520;
+    --slider-dot: #C0C0C0;
+
+    --max-device-width: 420px
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --html-bg-color: var(--light-html-bg-color);
+        --bg-color: var(--bg-color-light);
+        --font-color: var(--font-color-dark);
+        --link-color: var(--link-color-dark)
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --html-bg-color: var(--dark-html-bg-color);
+        --bg-color: var(--bg-color-dark);
+        --font-color: var(--font-color-light);
+        --link-color: var(--link-color-dark);
+
+    }
+}
+
+@media (max-width: 470px) {
+    body {
+        padding: 2em 1.5em;
+        width: 100vw !important;
+    }
+}
+
+@media (min-width: 470px) {
+    body {
+        padding: 2em 2.5em;
+    }
+}
+
+html {
+    background-color: var(--html-bg-color);
+    color: var(--font-color);
+    font-size: var(--font-size);
+    /* padding: 1em; */
+}
+
+body {
+    margin: .5em auto;
+    position: relative;
+    min-width: 60vw;
+    box-sizing: border-box;
+    width: fit-content;
+    background-color: var(--bg-color);
+}
+
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:hover {
+    filter: brightness(0.9);
+}
+
+
+button {
+    background-color: #6b6b6b;
+    text-align: center;
+    align-items: center;
+    min-width: 1.5em;
+    min-height: 1.5em;
+    justify-content: center;
+    border: none;
+    font-size: 1.2em;
+    border-radius: .2em;
+    color: var(--font-color-light);
+}
+
+button:hover {
+    filter: brightness(120%);
+}
+
+button:active {
+    filter: brightness(80%);
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+ul {
+    margin-top: .7em;
+}

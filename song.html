@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/menu.css">
+    <link rel="stylesheet" href="styles/text.css">
+    <link rel="stylesheet" href="styles/toggle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="scripts/transposition.js" ></script>
+    <script src="scripts/menu-actions.js" ></script>
+    <script src="scripts/text-uploader.js"></script>
+    <script src="scripts/behaviour.js" defer></script>
+    <title>Śpiewnik</title>
+</head>
+
+<body>
+    <div class="border-bottom">
+    <h1 id="title"></h1>
+    <h2 id="subtitle"></h2>
+</div>
+<h3 id="comment"></h3>
+    <main></main>
+    <menu>
+        <div class="menu-btn cursor-pointer">
+            <img src="adjust.png" alt="Menu">
+        </div>
+        <div class="menu-bar">
+            <span>Transpozycja:
+                <div class="action-row">
+                    <button class="cursor-pointer" id="tr-down">-</button>
+                    <button class="cursor-pointer" id="tr-up">+</button>
+                </div>
+            </span><span>Rozmiar tekstu:
+                <div class="action-row">
+                    <button class="cursor-pointer" id="font-size-down">-</button>
+                    <button class="cursor-pointer" id="font-size-up">+</button>
+                </div>
+            </span>
+            <span>Autoprzewijanie:
+                <div class="action-row cursor-pointer">
+                    <div id="autoscroll" class="slide-toggle">
+                        <span class="slide-ball"></span>
+                    </div>
+                </div>
+            </span>
+            <span id="hide" class="cursor-pointer">
+                Zwiń
+                <img src="down.png" alt="Zwiń menu">
+            </span>
+        </div>
+    </menu>
+</body>
+
+</html>
