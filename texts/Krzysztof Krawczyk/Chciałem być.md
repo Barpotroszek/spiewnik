@@ -17,7 +17,7 @@ i wiele pięknych, pięknych kobiet[G] znać
 
 [G]Przemierzyłem cały świat[C] od Las V[D]egas po Kry[G]m
 Zgrałem tysiąc talii kart[C], które [D]lubią dym [G] 
-Skasowałem kilka bryk[C], nie żaDisłuję dzi[G]ś
+Skasowałem kilka bryk[C], nie ża[Dis]łuję dzi[G]ś
 Nie ż[C]ałuję dziś [D] 
 
 [e]Uu[G]u,[C] u[G]uu…  [e]Uu[G]u,[C] u[G]uu… [e]Uu[G]u,[C] u[G]uu… [e]Uu[G]u,[C] u[G]uu…
@@ -34,7 +34,7 @@ mojej wiary nie odebrał [G]mi
 
 [G]Przemierzyłem cały świat[C] od Las V[D]egas po Kry[G]m
 Zgrałem tysiąc talii kart[C], które [D]lubią dym [G] 
-Skasowałem kilka bryk[C], nie żaDisłuję dzi[G]ś
+Skasowałem kilka bryk[C], nie ża[Dis]łuję dzi[G]ś
 Nie ż[C]ałuję dziś [D] 
 
 [e]Uu[G]u,[C] u[G]uu…  [e]Uu[G]u,[C] u[G]uu… [e]Uu[G]u,[C] u[G]uu… [e]Uu[G]u,[C] u[G]uu…

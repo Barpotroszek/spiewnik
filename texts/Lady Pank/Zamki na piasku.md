@@ -18,10 +18,10 @@ h G A [fis] G
 
 
 {Zwrotka 2}
-[h]Idz[G]iesz ul[A]icfisą uśmiechasz [G]sie
-[h]Skon[G]struo[A]wałeś bombfisę Skondensowaną [G]śmierć
-[h]Znasz [G]datę [A]i godzinę Gdfisy świat się zacznie [G]bać
-[h]Po[G]licja [A]wszystkich krajófisw Rysopis twój chce [G]znać
+[h]Idz[G]iesz ul[A]ic[fis]ą uśmiechasz [G]sie
+[h]Skon[G]struo[A]wałeś bomb[fis]ę Skondensowaną [G]śmierć
+[h]Znasz [G]datę [A]i godzinę Gd[fis]y świat się zacznie [G]bać
+[h]Po[G]licja [A]wszystkich krajó[fis]w Rysopis twój chce [G]znać
 
 
 {Refren}
@@ -34,9 +34,9 @@ h G A [fis] G
 
 {Zwrotka 3}
 [h]  [G]Taśma [A]kręci się[fis], ty stoisz [G]przy niej
-[h]  [G]Jesteś [A]pionkiem w grzfise Kółkiem w ma[G]szynie
-[h]  [G]Żyjesz w [A]zamkach pośród fischmur Na ich [G]wieżach
-[h]  [G]Nie chcąc w[A]iedzieć ani cfiszuć  Dokąd z[G]mierzasz
+[h]  [G]Jesteś [A]pionkiem w grz[fis]e Kółkiem w ma[G]szynie
+[h]  [G]Żyjesz w [A]zamkach pośród [fis]chmur Na ich [G]wieżach
+[h]  [G]Nie chcąc w[A]iedzieć ani c[fis]zuć  Dokąd z[G]mierzasz
 
 
 {Refren}
