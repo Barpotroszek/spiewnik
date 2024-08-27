@@ -55,8 +55,8 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
       return;
     }
     const p = document.createElement("p");
-    parag.split("\r\n").forEach((line, idx) => {
-      // console.log({idx, line})
+    parag.split("\r?\n").forEach((line, idx) => {
+      console.log({idx, line})
       const span = document.createElement("span");
       if (rgxs.chord_alone.test(line)) {
         line = line.replace(rgxs.chord_alone, chord_pattern);
