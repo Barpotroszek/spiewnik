@@ -1,34 +1,39 @@
 .slide-toggle {
-    height: 1em;
-    width: 2em;
-    transform: translate(0, 20%);
-    top: 50%;
-    border-radius: 1em;
-
-    position: relative;
     background-color: var(--slider-bg-inactive);
-    display: inline-block;
+    width: 2em;
+    height: 1em;
+    border-radius: 1em;
+    position: relative;
+    display: grid;
+    align-items: center;
+    align-content: center;
 }
 
-.slide-ball {
+
+.slide-toggle input[type="checkbox"]{
+    display: none;
+}
+
+.slide-ball{
+    font-size: 1.2em;
     position: absolute;
-    display: block;
-    top: 50%;
-    left: 0;
-    width: 1.2em;
-    height: 1.2em;
-    transform: translate(-10%, -50%);
-
-    background-color: var(--slider-dot) !important;
-    border-radius: 50%;
-    z-index: 5;
-    background-clip: border-box;
+    left: -25%;
+    /* justify-self: left; */
+    transform: translate(0, -5%);
 }
 
-.slide-toggle.active {
+
+#autoscroll .slide-ball::before{
+    content: '⭐';
+    font-size: 1.2em;
+    transform: translate(-6%, -2%);
+}
+
+.slide-toggle.active{
     background-color: var(--slider-bg-active);
 }
 
-.active>.slide-ball {
-    left: 50%;
-}
+.slide-toggle.active > .slide-ball {
+    justify-self: right;
+    right: -23%
+}   

@@ -4,10 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/header.css">
     <link rel="stylesheet" href="styles/menu.css">
     <link rel="stylesheet" href="styles/text.css">
     <link rel="stylesheet" href="styles/toggle.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="scripts/switch-theme.js" defer></script>
     <script src="scripts/transposition.js"></script>
     <script src="scripts/menu-actions.js"></script>
     <script src="scripts/text-uploader.js"></script>
@@ -15,16 +17,27 @@
     <title>Śpiewnik</title>
 </head>
 
-<body>
+<body >
+    <header>
+        <img src="pictures/logo-hela3.png" alt="" srcset="">
+        <a href="./"><span>Rozśpiewane ławki</span></a>
+        <!-- <span>Rozśpiewane ławki</span> -->
+        <label id="theme-toggle" class="action-row cursor-pointer justify-right">
+            <div class="slide-toggle">
+                <input type="checkbox" name="dark-mode" id="dark-mode">
+                <span class="slide-ball"></span>
+            </div>
+        </label>
+    </header>
+    <main>
     <div class="border-bottom">
         <h1 id="title"></h1>
         <h2 id="subtitle"></h2>
     </div>
-    <h3 id="capo"></h3>
-    <main></main>
+    <h3 id="capo"></h3></main>
     <menu>
         <div class="menu-btn cursor-pointer">
-            <img src="adjust.png" alt="Menu">
+            <img src="pictures/adjust.png" alt="Menu">
         </div>
         <div class="menu-bar">
             <span>Transpozycja:
@@ -41,13 +54,12 @@
             <span>Autoprzewijanie:
                 <div class="action-row cursor-pointer">
                     <div id="autoscroll" class="slide-toggle">
-                        <span class="slide-ball"></span>
+                        <span class="slide-ball star"></span>
                     </div>
                 </div>
             </span>
             <span id="hide" class="cursor-pointer">
-                Zwiń
-                <img src="down.png" alt="Zwiń menu">
+                Zwiń 👇
             </span>
         </div>
     </menu>

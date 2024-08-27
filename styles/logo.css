@@ -1,0 +1,7 @@
+
+img#logo{
+    display: block;
+    /* height: 10em; */
+    margin: 0 auto;
+    z-index: 3;
+}

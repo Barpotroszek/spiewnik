@@ -1,6 +1,6 @@
 main{
     max-width: 100vw;
-    margin-top: 2.5em;    
+    margin-top: 1em;    
 }
 
 main > * {
@@ -68,7 +68,7 @@ p {
     white-space: pre;
     /* margin-bottom: -1em; */
 }
-.with-chords > .chord {
+p.with-chords  .chord {
     top: -1.3em;
     display: inline-block;
 }

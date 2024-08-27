@@ -1,0 +1,51 @@
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 4;
+    height: 3.5rem;
+    width: 100%;
+    box-sizing: border-box;
+
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: auto 1fr auto;
+    gap: .5em;
+    font-size: 1em;
+    background-color: var(--header-bg);
+    /* font-style: italic; */
+    box-shadow: 0 0 .5em black;
+    border-radius: 0 0 1em 1em;
+    padding: 0 1em;
+}
+
+header span{
+    font-size: 1.4em;
+    font-weight: bolder;
+    color: var(--font-color-dark) !important;
+}
+header img{
+    max-height:3em;
+    /* mix-blend-mode: ; */
+}
+
+header .logo {
+    /* position: absolute; */
+    justify-self: left;
+}
+
+header .slide-toggle {
+    font-size: 1.5em;
+}
+
+
+.dark-theme header .slide-ball::before{
+    content: '🌚';
+}
+
+header .slide-ball::before{
+    content: '🌞';
+}
+

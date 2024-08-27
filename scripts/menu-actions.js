@@ -19,7 +19,7 @@ const fontSizeDown = () => {
   setFontSize(settings.fontSize)
 };
 
-const slide_toggle = document.querySelector(".slide-toggle");
+const slide_toggle = document.querySelector("#autoscroll.slide-toggle");
 
 const isEndOfPage = ()=>
 // Sprawdza czy jesteśmy już na końcu strony

@@ -27,7 +27,6 @@ fetch("texts/data.json").then(async (e) => {
 
         url.searchParams.set("artist", key)
         url.searchParams.set("title", v)
-        console.log(url.href)
         a.setAttribute(
           "href",
           "song.html?artist=" + key + "&title=" + el + ".md"

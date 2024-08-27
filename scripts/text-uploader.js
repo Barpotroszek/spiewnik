@@ -41,15 +41,9 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
       rgxs.title.test(parag) ||
       rgxs.subtitle.test(parag) ||
       parag.includes(capo)
-    ) {
-      console.log(
-        { parag },
-        parag.includes(title) ||
-          parag.includes(subtitle) ||
-          parag.includes(capo)
-      );
+    ) 
       return;
-    }
+    
     if (parag === "") {
       document.body.append(br);
       return;
@@ -62,7 +56,7 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
         line = line.replace(rgxs.chord_alone, chord_pattern);
       }
       if (rgxs.chord.test(line)) {
-        span.setAttribute("class", "with-chords");
+        p.setAttribute("class", "with-chords");
         line = line.replace(rgxs.chord_in_txt, chord_pattern);
       }
       span.innerHTML = line.replace(rgxs.chord, chord_pattern)
