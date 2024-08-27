@@ -11,6 +11,8 @@ fetch("texts/data.json").then(async (e) => {
     const url = new URL(window.location)
     url.pathname='./song.html'
 
+    let even = false;
+
     keys.forEach((key) => {
       const v = e[key].sort();
       let t = document.createElement("h3"),
@@ -18,6 +20,7 @@ fetch("texts/data.json").then(async (e) => {
       t.textContent = key;
       main.append(t);
       v.forEach((el) => {
+        even = !even;
         let li = document.createElement("li"),
           a = document.createElement("a");
         a.textContent = el;
@@ -29,6 +32,7 @@ fetch("texts/data.json").then(async (e) => {
           "href",
           "song.html?artist=" + key + "&title=" + el + ".md"
         );
+        even ? li.classList.add('even'):null;
         li.append(a);
         ul.append(li);
       });

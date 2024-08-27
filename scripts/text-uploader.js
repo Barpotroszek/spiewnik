@@ -3,7 +3,8 @@ const rgxs = {
   chord_alone: /\B\[([\w\d ]{1,3}|(\wsus\d))\]\B/g, // chord NOT in text, standing alone
   title: /^#\s([A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s\d\\.,]+)$/gm,
   subtitle: /^##\s([A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s\d\\.,]+)\s$/gm,
-  comment: /^> ?([\w\dĄĆĘŁŃÓŚŹŻąćęłńóśźż;:\., ]+)$/gm,
+  capo: /^> ?([\w\dĄĆĘŁŃÓŚŹŻąćęłńóśźż;:\., ]+)$/gm,
+  comment: /^{?([\w\dĄĆĘŁŃÓŚŹŻąćęłńóśźż;:\., ]+)}$/gm,
   bold: /\*(\w+)\*/g,
   spaces: /\]( ?)\[/g,
 };
@@ -14,7 +15,8 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
   const main = document.querySelector("main");
   let txt = await r.text();
   const br = document.createElement("br"),
-    chord_pattern = '<code class="chord" data-chord="$1">$1</code>';
+    chord_pattern = '<code class="chord" data-chord="$1">$1</code>',
+    comment_pattern = '<span class="comment">$1</span>';
   txt = txt
     .replace(rgxs.bold, "<b>$1:</b>")
     .replace(rgxs.spaces, "]&nbsp;&nbsp;&nbsp;&nbsp;[");
@@ -24,27 +26,27 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
   let title = url.get("title").replace(".md", ""),
     subtitle = url.get("artist"),
     // subtitle = rgxs.exec(txt)[1];
-    comment = null;
+    capo = null;
   document.getElementById("title").textContent = title;
   document.getElementById("subtitle").textContent = subtitle;
   try {
-    comment = rgxs.comment.exec(txt)[1];
-    document.getElementById("comment").textContent = comment;
+    capo = rgxs.capo.exec(txt)[1];
+    document.getElementById("capo").textContent = capo;
   } catch (error) {
-    document.getElementById("comment").remove();
+    document.getElementById("capo").remove();
   }
 
   lines.forEach((parag) => {
     if (
       rgxs.title.test(parag) ||
       rgxs.subtitle.test(parag) ||
-      parag.includes(comment)
+      parag.includes(capo)
     ) {
       console.log(
         { parag },
         parag.includes(title) ||
           parag.includes(subtitle) ||
-          parag.includes(comment)
+          parag.includes(capo)
       );
       return;
     }
@@ -63,7 +65,8 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
         span.setAttribute("class", "with-chords");
         line = line.replace(rgxs.chord_in_txt, chord_pattern);
       }
-      span.innerHTML = line.replace(rgxs.chord, chord_pattern);
+      span.innerHTML = line.replace(rgxs.chord, chord_pattern)
+        .replace(rgxs.comment, comment_pattern);
       p.append(span);
     });
     main.append(p);
