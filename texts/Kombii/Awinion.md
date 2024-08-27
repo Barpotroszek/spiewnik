@@ -47,6 +47,6 @@ Blisko [A]są.  blisko [E]są. { x4}
 
 Blisko fissą   [D]   [A]   [E] 
 
-fis D A E
-fis D A E
+[fis] D A E
+[fis] D A E
 

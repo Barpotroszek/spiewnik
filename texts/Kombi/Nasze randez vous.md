@@ -13,7 +13,7 @@ h G h G
 [h] Nie mogę cię zatrzymać
 [G] Rozpływasz się jak sen
 [h] Nie słyszysz nawet, kiedy [G]wołam cię
-[E] Ze stu snów ten Fisjeden chcę [E] naprawdę Fisprzeżyć
+[E] Ze stu snów ten [Fis]jeden chcę [E] naprawdę [Fis]przeżyć
 [E] Ze stu twarzy Fistwoją chcę na[G]prawdę Fismieć
 
 {Refren:}
@@ -29,7 +29,7 @@ Nasze [G]randez Fisvous, [h] tylko w wyobraźni
 [h] Czy kiedyś Cię odnajdę
 [G] Czy powiem to, co chcę
 [h] Czy zawsze będę żył ma[G]rzeniem
-[E] Ze stu snów ten Fisjeden chcę [E] naprawdę Fisprzeżyć
+[E] Ze stu snów ten [Fis]jeden chcę [E] naprawdę [Fis]przeżyć
 [E] Ze stu twarzy Fistwoją chcę na[G]prawdę Fismieć
 
 {Refren:}

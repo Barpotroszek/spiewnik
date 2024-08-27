@@ -3,7 +3,7 @@
 
 
 {Ref:}
-Ona jest ze snu, a ubrana w codzienność                              D A G
+Ona jest ze snu, a ubrana w codzienność                              [D] A G
 Dla mnie zrzuca ją kiedy robi się ciemno                             x2
 
 By nasze życie miało wreszcie jakiś znak                             A h G A

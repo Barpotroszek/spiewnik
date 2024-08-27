@@ -13,7 +13,7 @@
 [D]  Ja namaluję Lili dzień
 
 
-h Cis fis / h Cis fis / h Cis fis / h Cis fis
+h Cis [fis] / h Cis [fis] / h Cis [fis] / h Cis fis
 
 [h]  Szarawy świat o[A]dejdzie szybko,
 [D]  Poleci z nieba kolorowy pył
@@ -34,7 +34,7 @@ h Cis fis / h Cis fis / h Cis fis / h Cis fis
   Do[G]tykiem koloruję na nie[D]biesko,
   Zamieni się czarne [h]na róż
 
-h Cis fis / h Cis fis / h Cis fis / h Cis fis
+h Cis [fis] / h Cis [fis] / h Cis [fis] / h Cis fis
 
 [h]  Miliardy nowych [A]gwiazd na niebie,
 [D]  Miliony wierszy, które znała już.

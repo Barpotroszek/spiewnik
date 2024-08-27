@@ -20,7 +20,7 @@ But darling, just [G]kiss me slow
 Your heart is [e7] all I own
 And in your [C9]eyes you're holding m[D]ine [Dsus4]  
 
-[Refren]
+{Refren}
 Baby, [e7] I'm d[C9]ancing in the d[G]ark
 With y[D]ou between my [e7] arms
 B[C9]arefoot on the gr[G]ass
@@ -49,7 +49,7 @@ Darling, just h[G]old my hand
 Be my girl, I'll b[e7] e your man
 I see my f[C9]uture in your [D]eyes [Dsus4]  
 
-[Refren]
+{Refren}
 Baby, [e7] I'm d[C9]ancing in the d[G]ark
 With y[D]ou betw[Dsus4]een my [e7] arms
 B[C9]arefoot on the gr[G]ass
@@ -61,7 +61,7 @@ Darling, y[G]ou look p[D]erf[Dsus4]ect tonight
 
 G [e7]  [C9] D [Dsus4]
 
-[Refren]
+{Refren}
 Baby, [e7] I'm d[C9]ancing in the d[G]ark
 With y[D]ou betw[Dsus4]een my [e7] arms
 B[C9]arefoot on the gr[G]ass

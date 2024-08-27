@@ -27,7 +27,7 @@ Da da [a]dam, da da dam, da da [e]da da da dam
 Da da [a]dam, da da dam, da da [e]da da da dam
 Da da [F]dam, da da dam, da da [G]da da da dam
 
-[Zwrotka 3]
+{Zwrotka 3}
 [a]A gdy przyjdzie mój [e]czas, [a]gdy pokryje mnie [e]rdza
 [F]Musisz wierzyć, że [C]znów, [F]pobiegniemy nad [E]staw
 [a]Czekaj na jakiś [e]znak, [a]bądź cierpliwa jak [e]papier

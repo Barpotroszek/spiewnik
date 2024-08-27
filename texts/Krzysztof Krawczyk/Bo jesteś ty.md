@@ -3,7 +3,7 @@
 
 
 [h]Na zewnątrz [G]mgła, fistylko ziąb i d[h]eszcz
-A dla mnie [G]świat wfis ciepłym świetle [h]świec
+A dla mnie [G]świat w[fis] ciepłym świetle [h]świec
 Powietrze [G]ma fiselektryczny [h]smak
 Chciałbym tak [G]trwać fisnawet tysiąc [h]lat
 

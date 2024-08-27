@@ -19,7 +19,7 @@
 [G]Tam[C], gdzie moje [D]sny
 [D]I warszawskie [e]kolorowe dni&nbsp;[D]&nbsp;&nbsp;[e]&nbsp;&nbsp;&nbsp;[D]&nbsp;
 
-[Refren]
+{Refren}
 [G]Gdybyś ujrzeć chciał nadwiślański świt
 Już [a]dziś wyruszaj ze mną [e]tam
 Zo[C]baczysz, [H7]jak przy[e]wita pięknie [G]nas
@@ -40,7 +40,7 @@ Zo[C]baczysz, [H7]jak przy[e]wita pięknie [G]nas
 [G]Naj[C]piękniejsze [D]dni
 [D]Zostawiłem tam [e]kolorowe sny&nbsp;[D]&nbsp;&nbsp;[e]&nbsp;&nbsp;&nbsp;[D]&nbsp;
 
-[Refren]
+{Refren}
 [G]Gdybyś ujrzeć chciał nadwiślański świt
 Już [a]dziś wyruszaj ze mną [e]tam
 Zo[C]baczysz, [H7]jak przy[e]wita pięknie [G]nas

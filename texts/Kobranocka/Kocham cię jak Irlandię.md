@@ -37,7 +37,7 @@ By[D] kochać cię jak[A] Irlandię
 Że[E] kocham cię jak[H] Irlandię
 
 {Ref:} A[E] ty się temu nie[E7+]+ dziwisz
-     Wiesz[E7] dobrze co było byfis dalej
+     Wiesz[E7] dobrze co było by[fis] dalej
  [D]Jak byśmy[A] byli szczęśliwi
  [E]Gdybym nie[H] kochał cię[E] wcale[E7+] [E7] [fis]
 
