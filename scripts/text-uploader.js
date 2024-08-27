@@ -11,8 +11,7 @@ const rgxs = {
 
 const url = new URLSearchParams(window.location.search);
 
-fetch("https://barpotroszek.github.io/spiewnik/texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
-  console.log(r.url)
+fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
   const main = document.querySelector("main");
   let txt = await r.text();
   const br = document.createElement("br"),
