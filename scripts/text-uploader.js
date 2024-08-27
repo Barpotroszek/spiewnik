@@ -11,7 +11,8 @@ const rgxs = {
 
 const url = new URLSearchParams(window.location.search);
 
-fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
+fetch("https://barpotroszek.github.io/spiewnik/texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
+  console.log(r.url)
   const main = document.querySelector("main");
   let txt = await r.text();
   const br = document.createElement("br"),
@@ -42,12 +43,12 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
       rgxs.subtitle.test(parag) ||
       parag.includes(capo)
     ) {
-      console.log(
-        { parag },
-        parag.includes(title) ||
-          parag.includes(subtitle) ||
-          parag.includes(capo)
-      );
+      // console.log(
+        // { parag },
+        // parag.includes(title) ||
+          // parag.includes(subtitle) ||
+          // parag.includes(capo)
+      // );
       return;
     }
     if (parag === "") {
@@ -55,7 +56,7 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
       return;
     }
     const p = document.createElement("p");
-    parag.split("\r\n").forEach((line, idx) => {
+    parag.split(/\r?\n/).forEach((line, idx) => {
       // console.log({idx, line})
       const span = document.createElement("span");
       if (rgxs.chord_alone.test(line)) {
