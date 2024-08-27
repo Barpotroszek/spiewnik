@@ -17,7 +17,7 @@ L[H7]ecz czy znajdzie [E7]nas.
 [d]Popatrz, o popatrz!
 [E7]Szerokimi ulicami niosą szczęście zakochani
 [a]Popatrz, o popatrz
-A7Wiatr porywa ich spojrzenia, biegnie światłem w smugę cienia
+[A7]Wiatr porywa ich spojrzenia, biegnie światłem w smugę cienia
 [d]Popatrz, o popatrz!
 [E7]Łączy serca, wiąże dłonie,
 Może nam zawróci w głowie t[a]eż.
@@ -34,7 +34,7 @@ Dzień-podanie r[a]ąk, [A7]aa
 [d]Popatrz, o popatrz!
 [E7]Szerokimi ulicami niosą szczęście zakochani
 [a]Popatrz, o popatrz
-A7Wiatr porywa ich spojrzenia, biegnie światłem w smugę cienia
+[A7]Wiatr porywa ich spojrzenia, biegnie światłem w smugę cienia
 [d]Popatrz, o popatrz!
 [E7]Łączy serca, wiąże dłonie,
 Może nam zawróci w głowie t[a]eż.

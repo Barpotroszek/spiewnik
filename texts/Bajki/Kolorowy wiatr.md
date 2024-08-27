@@ -8,9 +8,9 @@ g
 Ty [g]masz mnie za głupią dzig7/F kuskę,
 Lecz choć [g]cały świat zwiedziłeś,
 Zjeź[d]dziłeś wzdłuż i wszerz.
-I Dismądry jesteś B tak,
-Że aż Dissłów podziwu B brak,
-Dla[g]czego powiedz Dismi tak mało [D]wiesz?
+I [Dis]mądry jesteś B tak,
+Że aż [Dis]słów podziwu B brak,
+Dla[g]czego powiedz [Dis]mi tak mało [D]wiesz?
 Mało [G]wiesz.[e].. [G]  [e]  
 
 {Zwr}
