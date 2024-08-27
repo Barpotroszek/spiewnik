@@ -1,18 +1,20 @@
 :root {
     --font-size: 1.2rem;
-    --chords-color: #FF4136;
+    --chords-color: #b36a8e;
 
     /* Dark mode */
     --dark-html-bg-color: #1b1a18;
     --bg-color-dark: #2b2928;
     --font-color-light: white;
-    --link-color-light: #9e9eff;
+    --link-color-light: #e384b3;
+    --second-link-color-light: #b4aded;
 
     /* light mode*/
     --light-html-bg-color: #1b1a18e0;
     --bg-color-light: #f8f5ec;
     --font-color-dark: #3c3b3a;
-    --link-color-dark: hsl(3, 100%, 60%);
+    --link-color-dark: #706580;
+    --second-link-color-dark: #b36a8e;
 
     /* Menu styling */
     --menu-bg-color: #e3e8f0;
@@ -23,24 +25,26 @@
     --max-device-width: 420px
 }
 
-@media (prefers-color-scheme: light) {
-    :root {
-        --html-bg-color: var(--light-html-bg-color);
-        --bg-color: var(--bg-color-light);
-        --font-color: var(--font-color-dark);
-        --link-color: var(--link-color-dark)
-    }
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --html-bg-color: var(--light-html-bg-color);
+    --bg-color: var(--bg-color-light);
+    --font-color: var(--font-color-dark);
+    --link-color: var(--link-color-dark);
+    --second-link-color: var(--second-link-color-dark)
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --html-bg-color: var(--dark-html-bg-color);
-        --bg-color: var(--bg-color-dark);
-        --font-color: var(--font-color-light);
-        --link-color: var(--link-color-dark);
 
-    }
+.dark-theme {
+    --html-bg-color: var(--dark-html-bg-color);
+    --bg-color: var(--bg-color-dark);
+    --font-color: var(--font-color-light);
+    --link-color: var(--link-color-light);
+    --second-link-color: var(--second-link-color-light);
+
+    color: var(--font-color)
 }
+
 
 @media (max-width: 470px) {
     body {
@@ -75,6 +79,8 @@ body {
 a {
     color: var(--link-color);
     text-decoration: none;
+    font-size: .9em;
+    font-weight: 500;
 }
 
 a:hover {
@@ -109,4 +115,17 @@ h3 {
 
 ul {
     margin-top: .7em;
+}
+
+li.even {
+    --link-color: var(--second-link-color);
+}
+
+ul>li {
+    margin: .2em 0;
+}
+
+ul>li::marker {
+    content: '✨ ';
+    margin-right: .5em;
 }

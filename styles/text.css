@@ -16,6 +16,12 @@ p {
     line-height: 3em;
 }
 
+.comment {
+    font-style: italic;
+    filter: brightness(.7);
+    margin-bottom: 1em;
+}
+
 #title {
     margin: 0;
     display: inline;
@@ -30,11 +36,11 @@ p {
     font-style: italic;
 }
 
-#comment {
+#capo {
     font-weight: normal;
 }
 
-#comment::before{
+#capo::before{
     content: '👉 ';
 }
 
