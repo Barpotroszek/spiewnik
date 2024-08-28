@@ -9,11 +9,6 @@ menu > div {
     position: fixed;
 }
 
-.cursor-pointer,
-.cursor-pointer * {
-    cursor: pointer !important;
-}
-
 menu * {
     transition: all .3s;
 }

@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 
 header {
+    font-family: 'Nerko One', cursive;    
     position: fixed;
     top: 0;
     left: 0;
@@ -19,16 +21,20 @@ header {
     box-shadow: 0 0 .5em black;
     border-radius: 0 0 1em 1em;
     padding: 0 1em;
+    font-weight: 100;
 }
 
+
 header span{
-    font-size: 1.4em;
-    font-weight: bolder;
-    color: var(--font-color-dark) !important;
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: var(--font-color-dark);
+    display: block;
+    text-align: center;
 }
+
 header img{
     max-height:3em;
-    /* mix-blend-mode: ; */
 }
 
 header .logo {
@@ -37,7 +43,7 @@ header .logo {
 }
 
 header .slide-toggle {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 

@@ -65,16 +65,17 @@ body:not(.dark-theme){
     }
 }
 
-@media (max-width: 470px) {
+@media (max-width: 670px) {
     main {
         padding: 2em 1.5em;
         width: 100vw !important;
     }
 }
 
-@media (min-width: 470px) {
+@media (min-width: 670px) {
     main {
         padding: 2em 2.5em;
+        max-width: 70vw;
     }
 }
 
@@ -95,6 +96,9 @@ body{
     color: var(--font-color) !important;
 }
 
+a{
+    text-decoration: none;
+}
 
 main {
     /* Same as hight of header +.5em */
@@ -104,7 +108,18 @@ main {
     min-width: 60vw;
     box-sizing: border-box;
     width: fit-content;
+    min-height: 98vh;
     background-color: var(--bg-color);
+
+    /* Background image: */    
+    background-image: url('../pictures/_unused/pobrane-removebg.png');
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-size: contain;
+    background-position-y: 60vh;
+    background-position-x:50%;
+    background-attachment: fixed;
+
 }
 
 button {
@@ -113,6 +128,7 @@ button {
     align-items: center;
     min-width: 1.5em;
     min-height: 1.5em;
+    padding: .2em .6em;
     justify-content: center;
     border: none;
     font-size: 1.2em;
@@ -126,4 +142,48 @@ button:hover {
 
 button:active {
     filter: brightness(80%);
+}
+
+.pretty-btn{
+    margin: .5em;
+    padding: .4em 3em;
+    color: var(--font-color-dark);
+    font-weight: bolder;
+    background-color: var(--header-bg);
+    border-radius: .5em;
+}
+
+.cursor-pointer,
+.cursor-pointer * {
+    cursor: pointer !important;
+}
+
+.center-items{
+    display: grid;
+    justify-items: center;
+}
+.text-justify{
+    text-indent: 1em;
+    text-align: justify;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.pretty-text::before, .pretty-text::after{
+    content: '✨';
+    margin: 0 .1em;
+}
+
+
+main a {
+    color: var(--link-color);
+    text-decoration: none;
+    font-size: .9em;
+    font-weight: 500;
+}
+
+main a:hover {
+    filter: brightness(0.9);
 }
