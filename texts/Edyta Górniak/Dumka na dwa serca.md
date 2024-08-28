@@ -4,8 +4,8 @@
 
 Edyta:
 [a]Mój sokole [d]chmurnooki
-[C]Pytaj o mnie d7gór wysokich
-[C]Pytaj o mnie d7lasów mądrych
+[C]Pytaj o mnie [d7]gór wysokich
+[C]Pytaj o mnie [d7]lasów mądrych
 [a]i [e]uwolni[D]j mnie  [d] 
 
 Mój sokole, mój przejrzysty
@@ -18,8 +18,8 @@ mój miły...
 
 Mieczysław:
 [a]Jak mam pytać [d]gwiazd w niebiosach?
-[C]Są zazdrosne d7o Twój posag:
-[C]O miłości d7cztery skrzynie
+[C]Są zazdrosne [d7]o Twój posag:
+[C]O miłości [d7]cztery skrzynie
 [a]I [e]o dobroć[D] Twą  [d] 
 
 Edyta:

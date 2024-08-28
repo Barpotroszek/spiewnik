@@ -2,7 +2,7 @@
 ## Kamil Bednarek
 
 
- ( e C G h )x4
+ ( [e] [C] [G] [h] )x4
 
 [e]Siedzę wieczorem ogarn[C]ięty moją ciszą,
 on[G]i nie słyszą, a ja - ta[h]k jak w transie
@@ -11,7 +11,7 @@ nade mną chmury w[G]iszą, wszystko jest takie ł[h]atwe i paradoksalne
 [e]Zadowol[C]ony niosę radość dzisiaj wszę[G]dzie,
 znowu się uśm[h]iecham,
 wiem, że wszystko dobrze b[e]ędzie
-zagubiony w tł[C]umie chcąc odnaleźć się﻿ w tym [G]pędzie,
+zagubiony w tł[C]umie chcąc odnaleźć się w tym [G]pędzie,
 buduję swoje ż[h]ycie na miłości funda[e]mencie
 
 
@@ -25,8 +25,9 @@ i nigdy n[h]ie zabierze nam już ich ni[e]kt.
 na-na-na- a[C]m -na-na-pa-pa-p[G]am
 na-na-na- a[h]m -na-na-n[e]a
 na-na-na- t[C]a -ta-ta-ta-ta-t[G]am
-h e
-a-a
+
+[h] [e]
+[a] [a]
 
 Oni słuchają lecz nie sł[C]yszą, między niebem, a c[G]iszą,
 spoty[h]kamy siebie,[e] 
@@ -51,13 +52,14 @@ i nigdy n[h]ie zabierze nam już ich ni[e]kt.
 na-na-na- a[C]m -na-na-pa-pa-p[G]am
 na-na-na- a[h]m -na-na-[e]na
 na-na-na- t[C]a -ta-ta-ta-ta-t[G]am
-h e
-a-a
+[h] [e]
+[a] [a]
 
 na-na-na- [C]am -na-na-o-o[G]-o
 o-o-o- [h]om -na-na-n[e]a
 
 na-na-na- [C]ta -ta-ta-ta-ta-t[G]am
-h e / C G h e / C G h e
-a-a
+
+[h] [e] / [C] [G] [h] [e] / [C] [G] [h] [e]
+[a] [a]
 
