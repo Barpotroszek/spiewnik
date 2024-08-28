@@ -1,0 +1,21 @@
+
+h3 {
+    margin-bottom: 0;
+}
+
+ul {
+    margin-top: .7em;
+}
+
+li.even {
+    --link-color: var(--second-link-color);
+}
+
+ul>li {
+    margin: .2em 0;
+}
+
+ul>li::marker {
+    content: '✨ ';
+    margin-right: .5em;
+}

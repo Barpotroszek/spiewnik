@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+header {
+    font-family: 'Nerko One', cursive;    
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 4;
+    height: 3.5rem;
+    width: 100%;
+    box-sizing: border-box;
+
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: auto 1fr auto;
+    gap: .5em;
+    font-size: 1em;
+    background-color: var(--header-bg);
+    /* font-style: italic; */
+    box-shadow: 0 0 .5em black;
+    border-radius: 0 0 1em 1em;
+    padding: 0 1em;
+    font-weight: 100;
+}
+
+
+header span{
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: var(--font-color-dark);
+    display: block;
+    text-align: center;
+}
+
+header img{
+    max-height:3em;
+}
+
+header .logo {
+    /* position: absolute; */
+    justify-self: left;
+}
+
+header .slide-toggle {
+    font-size: 1.2em;
+}
+
+
+.dark-theme header .slide-ball::before{
+    content: '🌚';
+}
+
+header .slide-ball::before{
+    content: '🌞';
+}
+

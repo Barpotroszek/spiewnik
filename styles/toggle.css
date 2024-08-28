@@ -1,0 +1,39 @@
+.slide-toggle {
+    background-color: var(--slider-bg-inactive);
+    width: 2em;
+    height: 1em;
+    border-radius: 1em;
+    position: relative;
+    display: grid;
+    align-items: center;
+    align-content: center;
+}
+
+
+.slide-toggle input[type="checkbox"]{
+    display: none;
+}
+
+.slide-ball{
+    font-size: 1.2em;
+    position: absolute;
+    left: -25%;
+    /* justify-self: left; */
+    transform: translate(0, -5%);
+}
+
+
+#autoscroll .slide-ball::before{
+    content: '⭐';
+    font-size: 1.2em;
+    transform: translate(-6%, -2%);
+}
+
+.slide-toggle.active{
+    background-color: var(--slider-bg-active);
+}
+
+.slide-toggle.active > .slide-ball {
+    justify-self: right;
+    right: -23%
+}   

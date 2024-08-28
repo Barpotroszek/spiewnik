@@ -1,0 +1,81 @@
+main{
+    max-width: 100vw;
+    margin-top: 1em;    
+}
+
+main > * {
+    word-wrap: wrap;
+}
+
+p {
+    font-size: var(--font-size);
+    margin-bottom: 2.3em;
+}
+
+.with-chords {
+    line-height: 3em;
+}
+
+.comment {
+    font-style: italic;
+    filter: brightness(.7);
+    margin-bottom: 1em;
+}
+
+#title {
+    margin: 0;
+    display: inline;
+    width: 100vw;
+}
+
+#subtitle {
+    display: inline;
+    margin-top: .1em;
+    margin-left: .3em;
+    /* font-size: 1.2em; */
+    font-style: italic;
+}
+
+#capo {
+    font-weight: normal;
+}
+
+#capo::before{
+    content: '👉 ';
+}
+
+.border-bottom{
+    border-bottom: dashed 4px;
+    /* border-radius: .5em; */
+}
+
+@media (max-width: 470px) {
+    #subtitle{
+        display: block;
+        margin: .5em 0;
+    }
+}
+
+.chord, .chord-alone {
+    color: var(--chords-color);
+    font-family: inherit;
+    font-size: var(--font-size);
+    font-weight: bolder;
+    position: relative;
+    /* position: absolute; */
+    word-break: keep-all;
+    width: 0;
+    white-space: pre;
+    /* margin-bottom: -1em; */
+}
+p.with-chords  .chord {
+    top: -1.3em;
+    display: inline-block;
+}
+
+main span {
+    position: relative;
+    display: block;
+    word-break: keep-all;
+    white-space: normal;
+}
