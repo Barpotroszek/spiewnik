@@ -49,4 +49,4 @@ przy mnie bądź. Jee jee
 [D] Uu[e]uuu... Jeee[G]e
 Uuuuuuuu[D]uu
 
-[[e7]]
+[e7]

@@ -5,7 +5,7 @@
 [a]Na na na  [d]na , na na  [a]na na
 [a]Na na na  [d]na , na na  [a]na na
 
-{1.}
+{Zwrotka 1}
 
 [a]Piszesz mi w liście, że [d]kiedy pada,
 kiedy [G]nasturcje na deszczu [a]mokną,
@@ -33,7 +33,7 @@ barwę [G]popiołu przybrały [a]nieba.
 a d G a
 C G d E
 
-{2.}
+{Zwrotka 2}
 
 Z[a]a siódmą górą, za s[d]iódmą rzeką,
 t[G]woje sny zamieniasz na pejz[a]aże.

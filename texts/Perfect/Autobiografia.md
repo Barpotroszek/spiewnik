@@ -3,21 +3,21 @@
 
 
 Miałem [e]dziesięć lat, gdy usłyszał o nim świat
-W mej piwa7nicy był nasz kl[D]ub
+W mej piw[a7]nicy był nasz kl[D]ub
 Kumpel [e]radio zniósł, usłyszałem "Blue Suede Shoes"
-I nie a7mogłem w nocy spać[D] 
+I nie [a7]mogłem w nocy spać[D] 
 Wiatr od[e]nowy wiał, darowano reszty kar
-Znów się a7można było śmia[D]ć
+Znów się [a7]można było śmia[D]ć
 W kawiar[e]niany gwar jak tornado jazz się wdarł
 I ja [a]też, chciałem[e] grać
 
 
 Ojciec[e], Bóg wie gdzie Martenowski stawiał piec
-Mnie paza7nokieć z palca z[D]szedł
+Mnie paz[a7]nokieć z palca z[D]szedł
 Z gry[e]fu został wiór, grałem milion różnych bzdur
-I pozna7ałem, co to s[D]eks
+I pozn[a7]ałem, co to s[D]eks
 Poczt[e]ówkowy szał, każdy z nas ich pięćset miał
-Zamiasta7 nowej pary j[D]eans
+Zamiast[a7] nowej pary j[D]eans
 A w so[e]botnią noc Był Luksemburg, chata, szkło
 Jakże[a] się chciało [e]żyć!
 
@@ -33,11 +33,11 @@ Niecie[G]rpliwy w nas ciskał się [C]duch  [h] 
 
 
 Poró[e]żniła nas, za jej Poli Raksy twarz
-Każdy a7by się zabić dał[D] 
+Każdy [a7]by się zabić dał[D] 
 W pe[e]wną letnią noc gdzieś na dach wyniosłem koc
-I dosa7tałem to, com ch[D]ciał
+I dos[a7]tałem to, com ch[D]ciał
 Powi[e]edziała mi, że kłopoty mogą być
-Ja jeja7, że egzamin m[D]am
+Ja jej[a7], że egzamin m[D]am
 Odkr[e]ęciła gaz Nie zapukał nikt na czas
 Znów jak [a]pies byłem s[e]am
 
