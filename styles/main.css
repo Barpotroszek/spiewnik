@@ -1,21 +1,21 @@
 :root {
     --font-size: 1.2rem;
     --chords-color: var(--link-color);
-    --header-bg: #d9a75d;
+    --header-bg: #f4b21e;
 
     /* Dark mode */
     --dark-html-bg-color: #1b1a18;
     --bg-color-dark: #2b2928;
     --font-color-light: white;
     --link-color-light: #82a37f;
-    --second-link-color-light: #d9a75d;
+    --second-link-color-light: #f4b21e;
 
     /* light mode*/
     --light-html-bg-color: #1b1a18e0;
-    --bg-color-light: #f2eed5;
+    --bg-color-light: #f2e6d5;
     --font-color-dark: #3c3b3a;
     --link-color-dark: #456143;
-    --second-link-color-dark: #9e772f;
+    --second-link-color-dark: #9e722f;
 
     /* Menu styling */
     --menu-bg-color: #e3e8f0;

@@ -1,7 +1,7 @@
 
 img#logo{
     display: block;
-    /* height: 10em; */
+    max-width: 18em;
     margin: 0 auto;
     z-index: 3;
 }
