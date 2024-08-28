@@ -2,7 +2,7 @@
 ## Sanah
 
 
-e C a e
+[e] [C] [a] [e]
 
 [e]Miał pod nosem czarny wąs
 Rozdawał ko[C]niaki
@@ -32,7 +32,7 @@ Po co [e]zwlekać, czekać
 Moja [C]mama, mówiła
 O[D]statnia umiera nadziej[e]a
 
-e C a e
+[e] [C] [a] [e]
 
 [e]Drżał jej we włosach piękny kwiat
 Ze strachu, że go [C]zmieni
@@ -61,5 +61,4 @@ Po co [e]zwlekać, czekać
 Moja [C]mama, mówiła
 O[D]statnia umiera nadziej[e]a
 
-e C a e / e C a e
-
+[e] [C] [a] [e]

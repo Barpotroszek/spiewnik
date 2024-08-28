@@ -16,6 +16,8 @@ nie ma fal
 nie ma fal
 nie ma fal
 nie ma fal
+
+{1. zwrotka}
 [e]pi[G]ęk[C]ni[a]e
 rozmawia się całkiem nieźle
 i podoba nam dotychczas każdy obejrzany film

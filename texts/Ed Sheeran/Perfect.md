@@ -59,7 +59,7 @@ Looking so b[D]eautif[Dsus4]ul
 I d[e7] on't des[C9]erve this
 Darling, y[G]ou look p[D]erf[Dsus4]ect tonight
 
-G [e7]  [C9] D [Dsus4]
+[G] [e7]  [C9] [D] [Dsus4]
 
 {Refren}
 Baby, [e7] I'm d[C9]ancing in the d[G]ark
@@ -72,5 +72,5 @@ And sh[G]e looks p[D]erf[Dsus4]ect
 I d[C9]on't deserve this
 Y[D]ou l[Dsus4]ook perfect to[G]night
 
-G G/F# [e7]  [Dsus4] [C9] [Dsus4] G
+[G] [G/F#] [e7]  [Dsus4] [C9] [Dsus4] G
 

@@ -1,6 +1,7 @@
 # Kołysanka dla nieznajomej
 ## Perfect
 
+{aby być zgodny z oryginałem trzeba przestroić giętarkę o pół tonu}
 
 [C]Gdy nie bawi cię[a] już
 [F]Świat zabawek mechanicznych
@@ -51,6 +52,5 @@ Na [G]linie nad [a]przepaścią F7+tańcz
 Aż w [G]jedną krótką [a]chwilę
 [F]Pojmiesz po co [G]żyjesz C
 
-{aby być zgodny z oryginałem trzeba przestroić giętarkę o pół tonu}
 
 

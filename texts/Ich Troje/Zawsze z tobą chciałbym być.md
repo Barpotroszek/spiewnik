@@ -2,7 +2,7 @@
 ## Ich Troje
 
 
- ( C E a F / C E a G )
+ ( [C] [E] [a] [F] / [C] [E] [a] [G] )
 
 [C]Zadzwoniłem w [E]środku lata [a] 
 choć minęły [F]już dwa lata
@@ -24,7 +24,7 @@ Za[F]wsze z tobą chcia[G]łbym [C]być, kochaj mnie za to
 Za[F]wsze z tobą chcia[G]łbym [C]być, tylko we dwoje
 Za[F]wsze z tobą chcia[G]łbym [C]być.
 
- ( C E a F / C E a G )
+ ( [C] [E] [a] [F] / [C] [E] [a] [G] )
 
 [C]Daj się skusić [E]na wakacje  [a] 
 Morze, plaża [F]i kolacje

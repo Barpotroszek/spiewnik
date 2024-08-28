@@ -33,6 +33,4 @@ Odnajdę s[d]wój pas, temp[B]om[F]at[a], [d]bieg
 
 
 [B]Czemu jest mi tu [F]źl[a]e?[d] 
-[B]Czemu jest mi tu [F]źl[a]e?[d] 
-
-
+[B]Czemu jest mi tu [F]źl[a]e?[d]

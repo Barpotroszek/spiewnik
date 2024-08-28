@@ -13,8 +13,8 @@
 [h]Zam[G]ki na [A]piasku[fis], gdy pełno w [G]szkle
 [h]Por[G]anna [A]witaj zmiano[fis], to życie [G]twe
 
-h G A [fis] G
-h G A [fis] G
+[h] [G] [A] [fis] [G]
+[h] [G] [A] [fis] [G]
 
 
 {Zwrotka 2}

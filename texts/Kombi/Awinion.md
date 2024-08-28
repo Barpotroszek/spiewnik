@@ -1,5 +1,5 @@
 # Awinion
-## Kombii
+## Kombi
 
 
 Gdy [fis]wciąż Cię pogania,
@@ -47,6 +47,6 @@ Blisko [A]są.  blisko [E]są. { x4}
 
 Blisko [fis]są   [D]   [A]   [E] 
 
-[fis] D A E
-[fis] D A E
+[fis] [D] [A] [E]
+[fis] [D] [A] [E]
 

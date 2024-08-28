@@ -3,8 +3,8 @@
 
 
 {Wstęp:}
-h G h G
-h G h G
+[h] [G] [h] [G]
+[h] [G] [h] [G]
 
 {Zwrotka 1:}
 [h] Tak często cię spotykam
@@ -39,12 +39,12 @@ Nasze [G]randez Fisvous, [h] tylko w wyobraźni
 [G]Randez Fisvous moich [h]snów
 
 {Solo:}
-h G
-h G
-G Fis h
-G Fis h
-G Fis h
-G Fis h
+[h] [G]
+[h] [G]
+[G] [Fis] [h]
+[G] [Fis] [h]
+[G] [Fis] [h]
+[G] [Fis] [h]
 
 {Refren:}
 Nasze [G]randez Fisvous, [h] tylko w wyobraźni
@@ -53,12 +53,5 @@ Nasze [G]randez Fisvous, [h] tylko w wyobraźni
 [G]Randez Fisvous moich [h]snów
 
 {Zakończenie:}
-G Fis h
-G Fis h
-G Fis h
-G Fis h
-G Fis h
-G Fis h
-G Fis h
-G Fis h
+[G] [Fis] [h] /x8
 

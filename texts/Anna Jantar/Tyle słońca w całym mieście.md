@@ -9,7 +9,7 @@ Dzień-słoneczne [a]ćmy, [A7]aa
 [H7]Ty, po prostu [E7]ty.
 
 [a]Dzień-godzina [E7]zwierzeń,
-Dzień-przy twarzy [a]twarz, A7aa
+Dzień-przy twarzy [a]twarz, [A7]aa
 [d]Szuka pamięć poplątanych [a]ścieżek,
 L[H7]ecz czy znajdzie [E7]nas.
 

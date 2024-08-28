@@ -3,11 +3,11 @@
 
 
 {Wstęp}
-A E
-A D
-h D E
-A E
-A E
+[A] [E]
+[A] [D]
+[h] [D] [E]
+[A] [E]
+[A] [E]
 
 {Zwrotka 1}
 [A] Czy to tak tęskny dźwięk aż serce skacze[D] [A] [E]
@@ -25,11 +25,11 @@ Muzyka [A]to najlepszy [D]lek
 Ona [h]jest jak w długiej [D]trasie piąty [E]bieg
 
 {Interludium}
-A E
-A D
-h D E
-A E
-A E
+[A] [E]
+[A] [D]
+[h] [D] [E]
+[A] [E]
+[A] [E]
 
 {Zwrotka 2}
 [A] Pogasną światła nim się czegoś dowiesz[D] [A] [E]
@@ -47,9 +47,9 @@ Muzyka [A]to najlepszy [D]lek
 Ona [h]jest jak w długiej [D]trasie piąty [E]bieg
 
 {Solo}
-A E
-A D
-h D E
+[A] [E]
+[A] [D]
+[h] [D] [E]
 
 [E] Ile prawdy jest w piosence, [D]gdy się śpiewać [A]chce
 [E] Nigdy mnie nie pytaj więcej, [D]nie

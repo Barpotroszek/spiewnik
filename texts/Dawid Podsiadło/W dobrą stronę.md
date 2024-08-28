@@ -8,17 +8,17 @@
 [h] Czuję, że to już [A]koniec, to już [E]koniec…
 
 {Przerwa}
-cis cis cis A
+[cis] [cis] [cis] [A]
 
 {Zwrotka}
- Ten pierwszy cisraz, mocny bas, szybki pląs po obiedzie.
+ Ten pierwszy [cis]raz, mocny bas, szybki pląs po obiedzie.
 [E] Widziałem błysk w obu [A]ślepiach mojej łani, przecież
-cis Trzymała mocno tam, gdzie najbardziej lubię,
+[cis] Trzymała mocno tam, gdzie najbardziej lubię,
 [E] Mama mówiła: „Takie rz[A]eczy tylko po ślubie”.
 
-cis Wpadli znajomi i z marszu na marsz wzięli,
+[cis] Wpadli znajomi i z marszu na marsz wzięli,
 [E] Jeden z niebieskich wtedy p[A]rawie mnie postrzelił.
-cis Dobrze wspominam ten jaskrawy czas,
+[cis] Dobrze wspominam ten jaskrawy czas,
 
  Chociaż przyznam, że już wyszedłbym zza metalowych krat.
 
@@ -33,17 +33,17 @@ cis Dobrze wspominam ten jaskrawy czas,
 [h] Czuję, że to już [A]koniec, to już [E]koniec… mmm
 
 {Przerwa}
-cis cis cis A
+[cis] [cis] [cis] [A]
 
 {Zwrotka}
- Już mogę ciswyjść, mogę biec, zamknę bramę, tamten dzień.
+ Już mogę [cis]wyjść, mogę biec, zamknę bramę, tamten dzień.
 [E] A ona stoi na przys[A]tanku w pobliżu gdzieś.
-cis Nie wiedzieć czemu, nie chce uśmiechnąć się,
+[cis] Nie wiedzieć czemu, nie chce uśmiechnąć się,
  To ja [E]mówię, że już dobrze, że już [A]wszystko jest okej.
 
-cis Brakuje mi tych naszych wspólnych chwil!
+[cis] Brakuje mi tych naszych wspólnych chwil!
 [E] Brakuje mi krzyczących [A]ludzi, i dobrze!
-cis Pomalujemy twarz białym i czerwonym,
+[cis] Pomalujemy twarz białym i czerwonym,
 
  Przecież doskonale wiesz – patrzymy tylko w dobrą stronę.
 
@@ -58,8 +58,8 @@ cis Pomalujemy twarz białym i czerwonym,
 [h] Czuję, że to już [A]koniec, to już [E]koniec…
 
 {Outro}
-h A E
-h A E
-h A E
-h A E
+[h] [A] [E]
+[h] [A] [E]
+[h] [A] [E]
+[h] [A] [E]
 

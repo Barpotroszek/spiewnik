@@ -371,4 +371,3 @@
 [G]ze już więcej nie tknie wódki,
 [a]Patrzę, płacze [C]na dnie beczki
 [G]Chyba był za k[a]rótki!
-

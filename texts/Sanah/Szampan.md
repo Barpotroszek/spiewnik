@@ -2,7 +2,7 @@
 ## Sanah
 
 
-e G C a
+[e] [G] [C] [a]
 
 [e]Pod górkę m[G]am
 Ale [C]na to się pis[a]ałam, tak czy siak
@@ -24,11 +24,11 @@ A ten g[e]ość mówi coś - s[D]poko nie szkodzi
 [a]Szampan wylewa się, t[C]oast mogę wznieść
 A ten g[e]ość mówi coś - o [D]co mu chodzi?
 
-a C e
+[a] [C] [e]
 
 [D]O co mu chodzi?
 
-a C e D
+[a] [C] [e] [D]
 
 
 [e]I znów ten [G]typ
@@ -41,7 +41,6 @@ Spojrzę s[C]ię ostatni r[a]az
 
 
 {ref:}
-
 S[a]zampan wylewa się, to[C]ast mogę wznieść
 A ten g[e]ość mówi coś - o[D] co mu chodzi?
 [a]Ktoś tu disuje mnie, [C]niech gada co chce
@@ -53,11 +52,11 @@ A ten g[e]ość mówi coś - s[D]poko nie szkodzi
 [a]Szampan wylewa się, t[C]oast mogę wznieść
 A ten g[e]ość mówi coś - o [D]co mu chodzi?
 
-a C e
+[a] [C] [e]
 
 [D]O co mu chodzi?
 
-a C e D
+[a] [C] [e] [D]
 
 
 

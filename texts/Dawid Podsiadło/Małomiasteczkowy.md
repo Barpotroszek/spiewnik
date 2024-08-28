@@ -2,9 +2,9 @@
 ## Dawid Podsiadło
 
 
-h  A D
-E [fis]
-E
+[h]  [A] [D]
+[E] [fis]
+[E]
 
 [E]Małomiastecz[A]kowa twarz
 [E]Małomiastecz[D]kowa głowa
@@ -56,12 +56,12 @@ Dla[h]czego wszystko sztuczne aż tak     [A] 
 [fis]Trzeba stąd wyjechać, bo strach
 Że [E]wszystko przejdzie na moje dzieci
 
-h  A D
-E [fis]
-E
-h  A D
-E [fis]
-E
+[h]  [A] [D]
+[E] [fis]
+[E]
+[h]  [A] [D]
+[E] [fis]
+[E]
 
 Z[fis]nowu jadę [E]do ciebie [A]sam     [h]  
 Z[D]nowu jadę do ciebie    [A]   [E] 
@@ -71,9 +71,9 @@ Z[D]nowu jadę do ciebie    [A]   [E] 
 Z[fis]nowu jadę [E]do ciebie [A]sam     [h]  
 Z[D]nowu jadę do ciebie    [A]   [E] 
 [fis]Sam [E]  [A] 
-h  D A E
+[h] [D] [A] [E]
 
-[fis] E A
-h  D A E
+[fis] [E] [A]
+[h] [D] [A] [E]
 
 

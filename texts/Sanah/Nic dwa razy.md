@@ -3,7 +3,7 @@
 > Kapodaster: Pierwszy Próg
 
 
-G D e C
+[G] [D] [e] [C]
 
 [G]Nic dwa razy [D]się nie zdarza
 [e]I nie zdarzy, z [C]tej przyczyny

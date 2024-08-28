@@ -11,7 +11,6 @@
         "Autobiografia",
         "Ale wkoło jest wesoło",
         "Chcemy być sobą",
-        "Kołysanka dla nieznajomej",
         "Miłość rośnie w nas",
         "Raz po raz",
         "Wszystko ma swój czas"
@@ -19,7 +18,7 @@
     "Sanah": [
         "Nic dwa razy",
         "Ostatnia nadzieja",
-        "Ale jazz!",
+        "Ale jazz",
         "Szampan"
     ],
     "Happysad": [
@@ -103,7 +102,8 @@
         "Małomiasteczkowy",
         "W dobrą stronę",
         "Trójkąty i Kwadraty",
-        "Nie ma fal"
+        "Nie ma fal",
+        "Nieznajomy"
     ],
     "Anna Jantar": [
         "Tyle słońca w całym mieście"
@@ -117,13 +117,11 @@
     "Varius Manx": [
         "Orła cień"
     ],
-    "(Pocahontas) Edyta Górniak": [
-        "Kolorowy wiatr"
-    ],
     "Halina Frąckowiak": [
         "Papierowy księżyc"
     ],
     "Edyta Górniak": [
+        "Kolorowy wiatr",
         "Dumka na dwa serca"
     ],
     "Artur Gadowski": [
@@ -131,9 +129,7 @@
     ],
     "Kombi": [
         "Nasze randez vous",
-        "Słodkiego miłego życia"
-    ],
-    "Kombii": [
+        "Słodkiego miłego życia",
         "Awinion"
     ],
     "Budka Suflera": [
@@ -144,5 +140,16 @@
     "Bolter": [
         "Daj mi tę noc"
     ],
-    "Mako": ["Bardzo Mała Żaba"]
+    "Mako": [
+        "Bardzo Mała Żaba"
+    ],
+    "Elektryczne Gitary": [
+        "To już jest koniec"
+    ],
+    "Wilki": [
+        "Urke"
+    ],
+    "Kwiat Jabłoni": [
+        "Dziś późno pójdę spać"
+    ]
 }

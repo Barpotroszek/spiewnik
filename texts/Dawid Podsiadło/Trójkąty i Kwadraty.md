@@ -3,8 +3,8 @@
 
 
 [Intro]
-C D e  G
-C D e  G
+[C] [D] [e]  [G]
+[C] [D] [e]  [G]
 
 {Pierwsza zwrotka}
 Stoję na [C]drodze,[D] nie widzi mnie tu [e]nikt   [G] 
@@ -13,7 +13,7 @@ Podnoszę [C]głowę,[D] nade mną rzędy [e]chmur  [G] 
 Słońce ho[C]ryzont[D] na sznurku ciągnie w [e]dół  [G] 
 
 {Przerwa}
-C D e G
+[C] [D] [e] [G]
 
 
 {Druga zwrotka}
@@ -30,7 +30,7 @@ Nim zajdzie s[C]łońce[D] tęsknić za tobą będę z[e]nów    [G] 
 [e]Topnieję u [G]twych stóp
 
 {Przerwa}
-C D e G
+[C] [D] [e] [G]
 
 
 {Trzecia zwrotka}

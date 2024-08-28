@@ -30,10 +30,10 @@ na to przecież przyjdzie czas, kiedy wstanie dzień
 [a]Daj mi tę [E]noc, [E7]tę jedną [a]noc
 [a]Daj mi tę [E]noc, [E7]tę jedną [a]noc
 
-zmiana tonacji - ton wyżej
+{zmiana tonacji - ton wyżej}
 
-D[h]aj mi tę nFisoc, tę jedną n[h]oc
-D[h]aj mi tę nFisoc, tę jedną n[h]oc
+D[h]aj mi tę n[Fis]oc, tę jedną n[h]oc
+D[h]aj mi tę n[Fis]oc, tę jedną n[h]oc
 
 
 

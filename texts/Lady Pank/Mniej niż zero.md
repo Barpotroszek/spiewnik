@@ -2,16 +2,16 @@
 ## Lady Pank
 
 
-e G D
-e G D
-e G D
-e G D
-e G D
+[e] [G] [D]
+[e] [G] [D]
+[e] [G] [D]
+[e] [G] [D]
+[e] [G] [D]
 [e]  [G]  [D]  Oooo oooo oooo oooo
 [e]  [G]  [D]  Oooo oooo oooo oooo
 [e]  [G]  [D]  Oooo oooo oooo oooo
 [e]  [G]  [D]  Oooo oooo oooo oooo
-e G D
+[e] [G] [D]
 
 [e] Myślisz [G]może, że [D]więcej coś znaczysz
 [e] Bo masz [G]rozum, dwie [D]ręce i chęć
@@ -46,7 +46,7 @@ Mniej niż [e]zero [G]     [D] 
 [e]  [G]  [D]  Oooo oooo oooo oooo
 [e]  [G]  [D]  Oooo oooo oooo oooo
 [e]  [G]  [D]  Oooo oooo oooo oooo
-e G D
+[e] [G] [D]
 
 [e] Myślisz [G]może, że [D]więcej coś znaczysz
 [e] Bo masz [G]rozum, dwie [D]ręce i chęć
@@ -66,7 +66,7 @@ Mniej niż [e]zero [G]     [D] 
 [e]  [G]  [D]  Oooo oooo oooo oooo
 [e]  [G]  [D]  Oooo oooo oooo oooo
 [e]  [G]  [D]  Oooo oooo oooo oooo
-e G D
+[e] [G] [D]
 
 {solo gitara}
 

@@ -3,15 +3,15 @@
 
 
 
-a  Em 2x
+[a]  [Em] {2x}
 
-I.
+{1. zwrotka}
 [a]A gdy przyjdzie mój [e]czas, [a]gdy pokryje mnie [e]rdza
 [F]Usiądź przy mnie tuż [C]tuż, [F]bym mógł z tobą być [E]sam
 [a]Usiądź blisko o [e]dłoń, [a]narwij słów jak żon[e]kili
 [F]I opowiedz nasz [C]film, [F]bym go przeżyć mógł [G]znów
 
-II.
+{2. zwrotka}
 [a]Mów o drodze we [e]mgle, [a]kiedy wciągał mnie [e]piach
 [F]Gdy nie miałem już [C]sił, [F]by się odbić od [E]dna
 [a]Mów o chwili sprzed [e]lat, [a]gdy podałaś mi [e]rękę

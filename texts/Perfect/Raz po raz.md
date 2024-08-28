@@ -2,9 +2,9 @@
 ## Perfect
 
 
-każde z nas swoje ścieżki ma                C G a F
-wydeptane i sprawdzone od lat               C G a F
-czasem myśl mi nie daje spać                C G a G F
+[C]każde z [G]nas swoje ści[a]eżki ma[F]
+[C]wydept[G]ane i sprawdzo[a]ne od la[F]t
+[C]czasem myśl mi nie daje spać                C G a G F
 kto chodzi bokiem                           C
 kto chodzi bokiem                           G
 

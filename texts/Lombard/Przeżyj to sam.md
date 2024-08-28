@@ -7,7 +7,7 @@
 G5: XX0033
 
 {Wstęp}
-C a d G
+[C] [a] [d] [G]
 
 {Zwrotka 1}
 [C] Na życie [h]patrzysz bez e[a]mocji[a]  [Asus2]     

@@ -40,7 +40,7 @@ W[G] nieciekawym [C]tle
 [a]W niebie dzisiaj[d] wszyscy,[a] wszyscy
 [d]święci [a]maj[E]ą [a]bal   {x2}
 
-[solo]
+{solo}
 
 {Ref.:}
 [a]Wszyscy święci ba[d]lują w[a] niebie

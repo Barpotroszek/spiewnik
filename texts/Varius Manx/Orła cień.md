@@ -2,14 +2,14 @@
 ## Varius Manx
 
 
-F C F C
+[F] [C] [F] [C]
 
 Widziałam [F]orła [C]cień
 Do góry [F]wzbił się niczym [C]wiatr
 Niebo [a]to jego [F]świat
 Z obłokiem [a]tańczył w[G] świetle [C]dnia
 
-F C F7+ C {X4}
+[F] [C] [F7+] [C] {X4}
 
 Widziałam [F]orła [C]cień
 Do góry [F]wzbił się niczym [C]wiatr
@@ -30,12 +30,3 @@ Choć pamięć [F]krótka [C]jest
 Zostawiła [F]słów tych [C]treść
 Nie umknie [a]jej już żaden [F]gest
 Żadna [a]myśl i [G]żaden [C]sens
-
-e|-----|--F7+---|-----
-H|--1--|-----|-----
-G|-----|--2--|-----
-D|-----|-----|--3--
-A|-----|-----|--3--
-E|-----|-----|-----
-
-

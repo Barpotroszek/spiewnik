@@ -3,8 +3,8 @@
 
 
 {Wstęp}
-e  h  a  a 
-e  h  a  a 
+[e]  [h]  [a]  [a]
+[e]  [h]  [a]  [a]
 
 {Ref}
 [e]  Chciałbym być sobą,
@@ -17,7 +17,7 @@ e  h  a  a
 [e]  Chciałbym być sobą,
 [h]  Chciałbym być sobą jesz[a]cze.[h]  
 
-{Zwr}
+{1. Zwr}
 [G]  Jak co dzień rano [D]- bułkę maślaną,
 [C]  Popijam kawą [a]nad gazety plamą.
 [G]  Nikt mi nie powie [D]- wiem, co mam robić,
@@ -38,7 +38,7 @@ e  h  a  a
 [e]  Chciałbym być sobą,
 [h]  Chciałbym być sobą jesz[a]cze.[h]  
 
-{Zwr}
+{2. Zwr}
 [G]  Trzymam się ściany [D]- niczym pijany,
 [C]  Tłum wkoło tańczy [a]tangiem opętany.
 [G]  Stopy zmęczone [D]- depczą koronę,
@@ -64,7 +64,7 @@ e  h  a  a
 [e]  Chciałbym być sobą,
 [h]  Chciałbym być sobą jesz[a]cze.[h]..
 
-e 
+[e] 
 
 
 

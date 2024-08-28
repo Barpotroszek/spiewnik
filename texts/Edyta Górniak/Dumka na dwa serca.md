@@ -2,7 +2,7 @@
 ## Edyta Górniak
 
 
-Edyta:
+{Edyta:}
 [a]Mój sokole [d]chmurnooki
 [C]Pytaj o mnie [d7]gór wysokich
 [C]Pytaj o mnie [d7]lasów mądrych
@@ -13,78 +13,78 @@ Pytaj o mnie nurtów bystrych
 Pytaj o mnie kwiatów polnych
 I uwolnij mnie.
 
-Edyta:
+{Edyta:}
 mój miły...
 
-Mieczysław:
+{Mieczysław:}
 [a]Jak mam pytać [d]gwiazd w niebiosach?
 [C]Są zazdrosne [d7]o Twój posag:
 [C]O miłości [d7]cztery skrzynie
 [a]I [e]o dobroć[D] Twą  [d] 
 
-Edyta:
+{Edyta:}
 Mój miły...
 
-Mieczysław:
+{Mieczysław:}
 Jak mam pytać innych kobiet ?
 
-Edyta:
+{Edyta:}
 Serce me odkryją w Tobie.
 
-Razem:
+{Razem:}
 I choć wiedzą, nie powiedzą
 Nie odnajdę Cię
 
-Edyta:
+{Edyta:}
 Mój sokole gromowładny
 Pytaj o mnie stepów sławnych
 Pytaj tych burzanów wonnych
 I uwolnij mnie
 
-Mieczysław:
+{Mieczysław:}
 Przez kurhany spopielałe
 Przez chutory w ogniu całe
 Snu już nie znam, step odmierzam
 By odnaleźć Cię.
 
-Edyta:
+{Edyta:}
 Mój miły...
 
-Mieczysław:
+{Mieczysław:}
 Jakże pytać mam księżyca ?
 On się kocha w Twych źrenicach
 Słońce zgoni, step zasłoni
 Nie odnajdę Cię
 
-Edyta:
+{Edyta:}
 Mój miły...
 
-Mieczysław
+{Mieczysław:}
 Jakże pytać mam Kozaka ?
 
-Edyta:
+{Edyta:}
 Co na miłość chorą zapadł
 
-Razem:
+{Razem:}
 On by z żalu świat podpalił
 Gdyby stracił...
 
-Mieczysław:
+{Mieczysław:}
 Cię...
 
-Edyta:
+{Edyta:}
 Mnie...
 
-Mieczysław:
+{Mieczysław:}
 Gdyby stracił Cię...
 
-Edyta:
+{Edyta:}
 Jakże pytać mam księżyca ?
 
-Mieczysław:
+{Mieczysław:}
 On się kocha w Twych źrenicach
 
-Razem:
+{Razem:}
 Słońce zgoni, step zasłoni
 Nie odnajdziesz mnie
 

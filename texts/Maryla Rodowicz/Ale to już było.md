@@ -2,7 +2,10 @@
 ## Maryla Rodowicz
 
 
-Intro: G F G F G
+{Intro:} 
+[G] [F] [G] [F] [G]
+
+{1. zwrotka}
 Z wielu [C]pieców się [G]jadło [C]chleb
 Bo od [d]lat przyglądam się [G]światu
 Nieraz [C]rano za[G]bolał [C]łeb
@@ -20,7 +23,8 @@ Ale to już [F]było[G], znikło gdzieś za [C]nami
 Choć w pa[e]pierach lat przybyło to na[F]prawdę
 Wciąż jesteśmy tacy [C]sami
 
-PRZEJŚCIE: G F G F G
+{PRZEJŚCIE:}
+[G] [F] [G] [F] [G]
 
 Na re[C]gale ko[G]lekcja [C]płyt
 I wy[d]wiadów pełne ga[G]zety
@@ -39,7 +43,7 @@ Ale to już [F]było[G], znikło gdzieś za [C]nami
 Choć w pa[e]pierach lat przybyło to na[F]prawdę
 Wciąż jesteśmy tacy [C]sami[D] 
 
-{Ref.}
+{Ref. ale podwyższone}
 Ale to już [G]było[A] i nie wróci [D]więcej
 I choć fistyle się zdarzyło to do [G]przodu
 Wciąż wyrywa głupie [D]serce[D] 
