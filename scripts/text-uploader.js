@@ -9,9 +9,9 @@ const rgxs = {
   spaces: /\]( ?)\[/g,
 };
 
-const url = new URLSearchParams(window.location.search);
+const searchParams = new URLSearchParams(window.location.search);
 
-fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
+fetch("texts/" + searchParams.get("artist") + "/" + searchParams.get("title")).then(async (r) => {
   const main = document.querySelector("main");
   let txt = await r.text();
   const br = document.createElement("br"),
@@ -23,8 +23,8 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
 
   lines = txt.split(/\r?\n\r?\n/);
 
-  let title = url.get("title").replace(".md", ""),
-    subtitle = url.get("artist"),
+  let title = searchParams.get("title").replace(".md", ""),
+    subtitle = searchParams.get("artist"),
     // subtitle = rgxs.exec(txt)[1];
     capo = null;
   document.getElementById("title").textContent = title;
