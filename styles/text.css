@@ -69,6 +69,14 @@ p {
     white-space: pre;
     /* margin-bottom: -1em; */
 }
+
+.chord[data-ext]::after{
+    position: static;
+    content: attr(data-ext);
+    font-size: .8em;
+    transform: translate(-.2em);
+}
+
 p.with-chords  .chord {
     top: -1.3em;
     display: inline-block;

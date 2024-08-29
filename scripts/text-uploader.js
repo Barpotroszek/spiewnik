@@ -1,6 +1,6 @@
 const rgxs = {
-  chord: /\[([\w\d ]{1,3}|(\wsus\d))\]/g, // chord in text
-  chord_alone: /\B\[([\w\d ]{1,3}|(\wsus\d))\]\B/g, // chord NOT in text, standing alone
+  chord: /\[(\w(sus|is)?)(\d?)\]/g, // chord in text
+  chord_alone: /\B\[(\w(sus|is)?)(\d?)\]\B/g, // chord NOT in text, standing alone
   title: /^#\s([A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s\d\\.,]+)$/gm,
   subtitle: /^##\s([A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s\d\\.,]+)\s$/gm,
   capo: /^> ?([\w\dĄĆĘŁŃÓŚŹŻąćęłńóśźż;:\., ]+)$/gm,
@@ -15,7 +15,7 @@ fetch("texts/" + url.get("artist") + "/" + url.get("title")).then(async (r) => {
   const main = document.querySelector("main");
   let txt = await r.text();
   const br = document.createElement("br"),
-    chord_pattern = '<code class="chord" data-chord="$1">$1</code>',
+    chord_pattern = '<code class="chord" data-ext="$3" data-chord="$1">$1</code>',
     comment_pattern = '<span class="comment">$1</span>';
   txt = txt
     .replace(rgxs.bold, "<b>$1:</b>")
