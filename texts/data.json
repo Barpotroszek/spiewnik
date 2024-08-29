@@ -1,4 +1,5 @@
 {
+    "version": 1.0,
     "Kancelarya": [
         "Zabiorę Cię właśnie tam"
     ],
@@ -71,10 +72,12 @@
         "Set fire to the rain"
     ],
     "Feel": [
-        "A gdy jest już ciemno"
+        "A gdy jest już ciemno",
+        "No pokaż na co cię stać"
     ],
     "Myslovitz": [
-        "Długość dźwięku samotności"
+        "Długość dźwięku samotności",
+        "Scenariusz dla moich sąsiadów"
     ],
     "Szanty": [
         "Morskie opowieści",
@@ -151,5 +154,11 @@
     ],
     "Kwiat Jabłoni": [
         "Dziś późno pójdę spać"
+    ],
+    "Tarzan Boy": [
+        "Samoloty"
+    ],
+    "Dżem": [
+        "Wehikuł czasu"
     ]
 }

@@ -4,10 +4,10 @@
 
 [B]Wpatrzony w białe snopy światła
 [F]Późną nocą pod prą[a]d,
-Bo jeśli [d]to ostatni reBjs[F]  [a]  [d] 
+Bo jeśli [d]to ostatni re[B]js[F]  [a]  [d] 
 [B]Mijam ostatni promień słońca,
 [F]Wiesz, że tak bardzo lubię dz[a]ień
-Gdy ciebie [d]nie ma, tracę Bse[F]ns[a]  [d] 
+Gdy ciebie [d]nie ma, tracę [B]se[F]ns[a]  [d] 
 
 
 [B]Proszę, dowiedz się
@@ -18,7 +18,7 @@ Gdy ciebie [d]nie ma, tracę Bse[F]ns[a]  [d] 
 
 [B]Wpatrzony w mijające auta
 [F]Tempomaty, pasy, b[a]ieg
-Historii [d]zasępionych gBłó[F]w [a]  [d] 
+Historii [d]zasępionych g[B]łó[F]w [a]  [d] 
 [B]Czy ktoś zapamięta mnie
 [F]Jeśli dzisiaj znik[a]nę
 Odnajdę s[d]wój pas, temp[B]om[F]at[a], [d]bieg

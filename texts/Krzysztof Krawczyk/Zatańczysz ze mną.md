@@ -13,9 +13,9 @@ Jak [H]mgła rozpłynie [e]się.
 
 {Ref.:}
 [E7]Zatańczysz [a]ze mną jeszcze raz, o[e]statni raz,
-Nim [D]skończy H7się ten [e]bal,
+Nim [D]skończy [H7]się ten [e]bal,
 [E7]Nadziei [a]iskra błyśnie w nas i [e]zgaśnie w nas
-Jak [D]niepoH7trzebna [e]łza.
+Jak [D]niepo[H7]trzebna [e]łza.
 
 [e]Choć nam będzi[a]e siebie brak,
 [H]Choć poznamy[e] ciszy smak,
@@ -28,8 +28,8 @@ Jak [D]niepoH7trzebna [e]łza.
 
 {Ref.:}
 [E7]Zatańczysz [a]ze mną jeszcze raz, o[e]statni raz,
-Nim [D]skończy H7się ten [e]bal,
+Nim [D]skończy [H7]się ten [e]bal,
 [E7]Nadziei [a]iskra błyśnie w nas i [e]zgaśnie w nas
-Jak [D]niepoH7trzebna [e]łza.
+Jak [D]niepo[H7]trzebna [e]łza.
 
 

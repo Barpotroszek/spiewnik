@@ -6,14 +6,11 @@
 
 [e]Miał pod nosem czarny wąs
 Rozdawał ko[C]niaki
-
 Liczył na drobniaki
 Ten błagający [a]wzrok
 Chciałby uciec [e]stąd
-
 Biegł, a wszystko to co miał
 To w kieszeni pyszny [C]trunek
-
 I jeden kierunek
 By lecieć tam gdzie [a]ptak
 A śpiewał sobie [e]tak

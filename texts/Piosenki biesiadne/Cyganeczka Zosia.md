@@ -2,11 +2,11 @@
 ## Piosenki biesiadne
 
 
-[a] Znałem cygaE7neczkę[a] Zosię
+[a] Znałem cyga[E7]neczkę[a] Zosię
 [G]kazali mi ją poś[C]lubić[A7]
 
 [d]lecz me serce nie[a] pozwala
-E7mojej cyganeczki[a] lubić.[A7]{ x2}
+[E7]mojej cyganeczki[a] lubić.[A7]{ x2}
 
 Na podwórzu na podwórzu
 cztery kare konie stoją
