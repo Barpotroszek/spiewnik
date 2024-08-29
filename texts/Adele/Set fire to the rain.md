@@ -2,7 +2,7 @@
 ## Adele
 
 
-d F C g
+[d] [F] [C] [g]
 
 I let it f[d]all, my he[F]art,
 And as it f[C]ell you rose to cl[g]aim it.
