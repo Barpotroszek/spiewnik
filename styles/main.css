@@ -112,7 +112,7 @@ main {
     background-color: var(--bg-color);
 
     /* Background image: */    
-    background-image: url('../pictures/_unused/pobrane-removebg.png');
+    background-image: url('../pictures/guitar-man.png');
     background-repeat: no-repeat;
     background-blend-mode: overlay;
     background-size: contain;
