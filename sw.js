@@ -15,7 +15,6 @@ const cacheResources = async (resources)=>{
 const addResourcesToCache = async (resources) => {
   const cache = await caches.open("v1");
   console.log({resources})
-  cache.addAll(resources)
   await cache.add(resources);
 };
 
@@ -58,15 +57,4 @@ self.addEventListener("fetch", (e) => {
     cacheFirst(url, res);
   });
   e.respondWith(chain);
-});
-
-self.addEventListener("message", (ev) => {
-  if (ev.data === "check-cache") {
-    let id = ev.id;
-    ev.ports[0].postMessage({
-      data: "check-cache",
-      id: id,
-      state: checkIfDownloaded(id),
-    });
-  }
 });
