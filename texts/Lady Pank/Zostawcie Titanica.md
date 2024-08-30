@@ -2,7 +2,7 @@
 ## Lady Pank
 
 
-{wstęp}: [E] [[cis]] [A] [H] x2
+{wstęp}: [E] [cis] [A] [H] x2
 
 [E]Ja wierzę oni t[cis]ańczą wciąż
 Oni [A]żyją własnym życiem
