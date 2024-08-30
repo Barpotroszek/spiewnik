@@ -11,11 +11,11 @@
 [a]Ale za to [F]zwiedzać cudo [C]będzie cały [E]świat
 
 {Ref.} [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 
@@ -25,11 +25,11 @@
 [a]Mam to w nosie, [F]że sąsiedzi [C]mówią o mnie [E]"świr"
 
 {Ref.} [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 
@@ -37,19 +37,19 @@
 [a]I samemu [F]burmistrzowi [C]wstęgę przeciąć [E]dam
 
 {Ref.} [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 [a]Tu na razie [G]jest ścier[E]nisko
-[F]Ale [G]będzie [C]San Fran[E]ciE7sco
+[F]Ale [G]będzie [C]San Fran[E]ci[E7]sco
 [a]A tam, gdzie to [H7]kretowisko
 [E]Będzie stał mój [a]bank
 
