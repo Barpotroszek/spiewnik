@@ -1,8 +1,8 @@
 # Samoloty
-## Tarzan Boy
+## Skaner
 
 
-1.
+{1.}
 Już nie raz i nie dwa
 Całą noc nie mogłem spać
 Samoloty loty loty
@@ -16,7 +16,7 @@ Dża, dża, dża dżambodżeta
 Kupię sobie i będzie heca
 o o o odrzutowca i śmigłowca i bombowca.>2X
 
-2.
+{2.}
 Czy to noc czy to dzień
 wciąż to samo w głowie mej
 Samoloty loty loty
