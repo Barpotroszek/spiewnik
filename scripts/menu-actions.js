@@ -1,8 +1,10 @@
 const settings = {
   fontSize: 1.1,
+  scrollTempo: 35,
   autoscroll: false,
   darkMode: window.matchMedia("(prefers-color-scheme: dark)").matches,
 };
+var elemAutoscroll;
 
 const setFontSize = (value) => {
   console.log("changing font size:", value);
@@ -16,28 +18,51 @@ const fontSizeUp = () => {
 
 const fontSizeDown = () => {
   settings.fontSize -= 0.1;
-  setFontSize(settings.fontSize)
+  setFontSize(settings.fontSize);
 };
 
 const slide_toggle = document.querySelector("#autoscroll.slide-toggle");
 
-const isEndOfPage = ()=>
-// Sprawdza czy jesteśmy już na końcu strony
-  window.innerHeight + window.scrollY >= document.body.scrollHeight
+const isEndOfPage = () =>
+  // Sprawdza czy jesteśmy już na końcu strony
+  window.innerHeight + window.scrollY >= document.body.scrollHeight;
 
-const toggleAutoscroll = (e) => {
-  if (settings.autoscroll || isEndOfPage() ) {
+const setAutoscrolling = () => {
+  console.log("Setting autscroll")
+  if(settings.autoscroll)
     clearInterval(settings.autoscroll);
-  e.classList.remove("active");
+  settings.autoscroll = setInterval(() => {
+    window.scrollBy(0, 1);
+    if (isEndOfPage()) toggleAutoscroll();
+  }, settings.scrollTempo);
+};
+
+// it changes time of scrolling
+// in what time it has to scroll x pixels
+const scrollUp = () => {
+  if (settings.scrollTempo <= 5) settings.scrollTempo = 5;
+  else settings.scrollTempo -= 5;
+  if (settings.autoscroll) setAutoscrolling();
+  console.log("Autoscroll: " + settings.scrollTempo)
+};
+
+const scrollDown = () => {
+  if (settings.scrollTempo > 60) settings.scrollTempo = 60;
+  else settings.scrollTempo += 5;
+  if (settings.autoscroll) setAutoscrolling();
+  console.log("Autoscroll: "+ settings.scrollTempo)
+};
+
+const toggleAutoscroll = () => {
+  console.log("toggle")
+  if (settings.autoscroll || isEndOfPage()) {
+    clearInterval(settings.autoscroll);
+    elemAutoscroll.classList.remove("active");
     settings.autoscroll = null;
-    return
+    return;
   } else {
-    settings.autoscroll = setInterval(() => {
-      window.scrollBy(0, 1);
-      if (isEndOfPage()) 
-        toggleAutoscroll(e)
-    }, 65);
-    e.classList.add("active");
+    setAutoscrolling();
+    elemAutoscroll.classList.add("active");
   }
 };
 
@@ -47,7 +72,10 @@ function setMenuListeners() {
     document.getElementById("tr-down").onclick = transposeDown;
     document.getElementById("font-size-up").onclick = fontSizeUp;
     document.getElementById("font-size-down").onclick = fontSizeDown;
-    const autoscroll = document.getElementById("autoscroll");
-    autoscroll.onclick = () => toggleAutoscroll(autoscroll);
+    document.getElementById("scroll-up").onclick = scrollUp;
+    document.getElementById("scroll-down").onclick = scrollDown;
+
+    elemAutoscroll = document.getElementById("autoscroll");
+    elemAutoscroll.onclick = () => toggleAutoscroll();
   } catch (error) {}
 }

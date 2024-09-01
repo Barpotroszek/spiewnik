@@ -54,7 +54,7 @@ menu span {
     /* font: var(--font-color); */
     display: grid;
     position: fixed;
-    bottom: -10em;
+    bottom: -12em;
     right: 1em;
     z-index: 1;
     padding: .5em .5em;
@@ -83,7 +83,6 @@ menu.active>.menu-bar {
 .menu-bar .action-row > button {
     /* width: 2.5em; */
     /* height: 2.5em; */
-    font-size: .9em;
     font-weight: bolder;
     padding: 0;
 }
