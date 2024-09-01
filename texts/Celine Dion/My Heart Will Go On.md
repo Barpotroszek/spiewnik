@@ -41,10 +41,10 @@ i[d]n my life we'll a7 always gBadd2 o on. 
 d  - Csus4 - Badd2  - Csus4 - d  - Csus4 - Badd2  - A7
 
 (here'is the best moment :)))
-fisYou're  [E]here, there's Dadd2nothing I fea[E]r
-afisnd i know tha[E]t my heart wDadd2ill go on. [E] 
-Wfise'll s[E]tay fDadd2orever this way [E] 
-yfisou are safecis7 in my heart
+[fis]You're  [E]here, there's Dadd2nothing I fea[E]r
+a[fis]nd i know tha[E]t my heart wDadd2ill go on. [E] 
+W[fis]e'll s[E]tay fDadd2orever this way [E] 
+y[fis]ou are safecis7 in my heart
 aDadd2nd my heart w[A]ill [E]go o[A]n and on.
 [A]I [-]ho[E]pe[-] t[A]ha[-]t [A]yo[-]u'[D]ll[-] e[D]nj[-]oy[D] t[-]hi[A]s version of the song of the year...
 Je dedie cette chanson a tous ceux et toutes celles qui ont coule avec

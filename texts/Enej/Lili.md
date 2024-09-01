@@ -53,7 +53,7 @@
   Ja [G]namaluję dzień Twoją [D]ręką
   Na Ziemi pojawi [h]się cud.
   Do[G]tykiem koloruję na nie[D]biesko,
-  Zafismieni się czarne na róż
+  Za[fis]mieni się czarne na róż
 
 
 [h]  A kiedy zajdą te dni

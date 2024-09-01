@@ -45,21 +45,21 @@ Wciąż jesteśmy tacy [C]sami[D] 
 
 {Ref. ale podwyższone}
 Ale to już [G]było[A] i nie wróci [D]więcej
-I choć fistyle się zdarzyło to do [G]przodu
+I choć [fis]tyle się zdarzyło to do [G]przodu
 Wciąż wyrywa głupie [D]serce[D] 
 Ale to już [G]było[A], znikło gdzieś za [D]nami
-Choć w pafispierach lat przybyło to na[G]prawdę
+Choć w pa[fis]pierach lat przybyło to na[G]prawdę
 Wciąż jesteśmy tacy [D]sami[D] 
 
 {Ref.}
 Ale to już [G]było[A] i nie wróci [D]więcej
-I choć fistyle się zdarzyło to do [G]przodu
+I choć [fis]tyle się zdarzyło to do [G]przodu
 Wciąż wyrywa głupie [D]serce[D] 
 Ale to już [G]było (ale to już było)[A], znikło gdzieś za [D]nami
-Choć w pafispierach lat przybyło to na[G]prawdę
+Choć w pa[fis]pierach lat przybyło to na[G]prawdę
 Wciąż jesteście tacy [D]sami[D] 
 
 {Ref.} kończący
 Ale to już [G]było[A] i nie wróci [D]więcej
-I choć fistyle się zdarzyło to do [G]przodu...
+I choć [fis]tyle się zdarzyło to do [G]przodu...
 

@@ -32,7 +32,7 @@ By[D] kochać cię jak[A] Irlandię
  [D]Gdybym nie[A] kochał cię[D] wcale[D7+] [D7] [e]
 
 [E]Czy mi to[E7+] kiedyś wybaczysz
-[E7]Działałem tak niepfisoradnie
+[E7]Działałem tak niep[fis]oradnie
 [D]Czy to dla[A] ciebie coś znaczy
 Że[E] kocham cię jak[H] Irlandię
 
