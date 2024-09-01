@@ -4,7 +4,10 @@ const PROHIBITED_FILES = /(\/_cacheOverride)/,
     "https://fonts.gstatic.com/s/nerkoone/v16/m8JQjfZSc7OXlB3ZMOjDd5RA.woff2",
     "https://fonts.gstatic.com/s/nerkoone/v16/m8JQjfZSc7OXlB3ZMOjDeZRAVmo.woff2",
     "./",
+    './registerSW.js',
+    './sw.js',
     "./404.html",
+    './manifest.json'
   ];
 
 const cacheResources = async (resources) => {
@@ -49,7 +52,7 @@ const fetchFirst = (url) =>
     //   console.log("Fetched", response);
       return response;
     } else return getFromCache(url);
-  });
+  }).catch(()=>getFromCache(url));
 
 self.addEventListener("fetch", (e) => {
   const req = e.request,
