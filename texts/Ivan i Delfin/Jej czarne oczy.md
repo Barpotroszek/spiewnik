@@ -15,9 +15,9 @@ E-4-7----------------------------------------------------
 [cis] W blaszany [E]daszek tłucze d[H]eszcz[H7]
 [cis] A w mojej g[E]łowie wciąż k[H]toś jest[H7]
 
-[fis] Więc gdy wspogismnienia męczą [cis]cię [E]
-[fis] Wracają gismyśli krótkie d[cis]nie [E]
-[fis] Zobaczyć jeszcze gisraz
+[fis] Więc gdy wspo[gis]mnienia męczą [cis]cię [E]
+[fis] Wracają [gis]myśli krótkie d[cis]nie [E]
+[fis] Zobaczyć jeszcze [gis]raz
 
 
 Jej piękne [cis]czarne oczy
@@ -47,9 +47,9 @@ Ze mną [A]jest
 [cis] Możesz u[E]ciekać możesz ni[H]e [H7]
 [cis] Jedno i d[E]rugie dopadnie ci[H]ę [H7]
 
-[fis] Więc gdy wspogismnienia męczą [cis]cię [E]
-[fis] Wracają gismyśli krótkie d[cis]nie [E]
-[fis]Zobaczyć jeszcze gisraz
+[fis] Więc gdy wspo[gis]mnienia męczą [cis]cię [E]
+[fis] Wracają [gis]myśli krótkie d[cis]nie [E]
+[fis]Zobaczyć jeszcze [gis]raz
 
 Jej piękne [cis]czarne oczy
 Śnią się [E]czarne oczy
