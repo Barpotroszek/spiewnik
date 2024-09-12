@@ -2,7 +2,7 @@
 ## Dawid Podsiadło
 
 
-([B] F g) x2
+([B] [F] [g]) x2
 
 [B]Witaj[F] niezna[g]jomy, p[B]ytanie do c[F]iebie m[g]am.
 Czy [B]zdążę [F]jeszcze [g]wrócić, drogi d[B]awno j[F]uż zasypał c[g]zas.
@@ -10,7 +10,7 @@ Czy [B]zdążę [F]jeszcze [g]wrócić, drogi d[B]awno j[F]uż zasypał c[g]zas.
 Za oknem Discisza, najcichsza jaką z[g]nam.
 Taka przed Disburzą, co zrywa d[g]ach.
 
-([B] F g) x2
+([B] [F] [g]) x2
 
 [B]Witaj[F] niezna[g]jomy, nawet [B]nie wiem jak na [F]imię ma[g]sz.
 [B]Patrzę na c[F]iebie i [g]myślę: czy to [B]ja za k[F]ilka l[g]at?
