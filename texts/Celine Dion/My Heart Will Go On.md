@@ -21,7 +21,7 @@ aBadd2 nd last for a[F] life[C] time
 a[F]nd never let g[C]o till we'reBadd2  one. 
 [F]Love was when I l[C]oved you
 oBadd2 ne true time I[F] holA7/C#d to 
-i[d]n my life we'll a7 always gBadd2 o on. 
+i[d]n my life we'll [a7] always gBadd2 o on. 
 
 d  - Csus4 - Badd2  - Csus4 - d  - Csus4 - Badd2  - A7
 
