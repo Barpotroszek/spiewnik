@@ -27,15 +27,15 @@ fetch("texts/data.json").then(async (e) => {
       even = !even;
       let li = document.createElement("li"),
         a = document.createElement("a");
-      a.textContent = `${item["title"]} - ${item['artist']}`;
+      a.textContent = `${item["title"]} - ${item["artist"]}`;
 
       url.searchParams.set("artist", item["artist"]);
       url.searchParams.set("title", item["title"]);
       a.setAttribute(
         "href",
-        "song.html?artist=" + item['artist'] + "&title=" + item["title"] + ".md"
+        "song.html?artist=" + item["artist"] + "&title=" + item["title"] + ".md"
       );
-      a.setAttribute("class", "link")
+      a.setAttribute("class", "link");
       even ? li.classList.add("even") : null;
       li.append(a);
       ul.append(li);

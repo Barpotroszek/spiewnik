@@ -1,9 +1,10 @@
-
 h1 {
     margin-bottom: 0;
 }
 
-ul{ margin: 0;}
+ul {
+    margin: 0;
+}
 
 li.even {
     --link-color: var(--second-link-color);
@@ -16,4 +17,8 @@ ul>li {
 ul>li::marker {
     content: '✨ ';
     margin-right: .5em;
+}
+
+a:has(.pretty-btn) {
+    width: max-content;
 }

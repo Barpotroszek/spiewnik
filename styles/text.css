@@ -9,7 +9,6 @@ main > * {
 
 p {
     font-size: var(--font-size);
-    margin-bottom: 2.3em;
 }
 
 .with-chords {

@@ -155,7 +155,6 @@ button:active {
     font-weight: bolder;
     background-color: var(--header-bg);
     border-radius: .5em;
-    justify-self: center;
 }
 
 
@@ -166,7 +165,8 @@ button:active {
 @media (display-mode: standalone) {
     
 #PWA-download{
-    display: block;
+    display: inline-block;
+    width: max-content;
 }  
 }
 
@@ -179,6 +179,15 @@ button:active {
     display: grid;
     justify-items: center;
 }
+
+.center-self{
+    justify-self: center;
+}
+
+.right-self{
+    justify-self: end;
+}
+
 .text-justify{
     text-indent: 1em;
     text-align: justify;

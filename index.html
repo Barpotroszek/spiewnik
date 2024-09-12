@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Śpiewnik mobilny dla ludzi. Otworzyć, wybrać i pośpiewać. Nothing more needed">
-    <meta property="og:image"content="pictures/logo-hela3.png">
+    <meta property="og:image" content="pictures/logo-hela3.png">
     <link rel="manifest" href="manifest.json">
     <link rel="shortcut icon" href="pictures/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="styles/main.css">
@@ -35,11 +35,18 @@
     <main>
         <link rel="stylesheet" href="styles/links-list.css">
         <img src="pictures/logo-hela4.png" id="logo" alt="">
-        <button class="pretty-btn"><a href="about.html" class="center-items">O co tutaj chodzi?</a></button>
-        <button class="pretty-btn"><a href="https://www.facebook.com/people/Roz%C5%9Bpiewane-%C5%81awki/61565205120202/" class="center-items">Facebook - <i>Rozśpiewane ławki</i></a></button>
-        <button class="pretty-btn"><a href="https://www.instagram.com/rozspiewane.lawki?igsh=MXN6M3RvOHhkY2VqaQ==" class="center-items">Instagram - <i>@rozspiewane.lawki</i></a></button>
-        <button class="pretty-btn"><a href="event-redirect.html" class="center-items">Najbliższe wydarzenie</a></button>
-        <button class="pretty-btn" id="PWA-download" onclick="downloadAll()">Pobierz wszystkie piosenki</button>
+        <a href="about.html" class="center-self cursor-pointer"><button class="pretty-btn">O co tutaj
+                chodzi?</button></a>
+        <a href="https://www.facebook.com/people/Roz%C5%9Bpiewane-%C5%81awki/61565205120202/"
+            class="center-self cursor-pointer"><button class="pretty-btn">Facebook - <i>Rozśpiewane
+                    ławki</i></button></a>
+        <a href="https://www.instagram.com/rozspiewane.lawki?igsh=MXN6M3RvOHhkY2VqaQ=="
+            class="center-self cursor-pointer"><button class="pretty-btn">Instagram -
+                <i>@rozspiewane.lawki</i></button></a>
+        <a href="event-redirect.html" class="center-self cursor-pointer"><button class="pretty-btn">Najbliższe
+                wydarzenie</button></a>
+        <button class="pretty-btn center-self cursor-pointer" id="PWA-download" onclick="downloadAll()">Pobierz
+            wszystkie piosenki</button>
         <h1 class="pretty-text">Choose your fighter</h1>
     </main>
 </body>

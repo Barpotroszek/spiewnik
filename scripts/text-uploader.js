@@ -54,7 +54,7 @@ fetch("texts/" + searchParams.get("artist") + "/" + searchParams.get("title"))
       )
         return;
 
-      if (parag === "" && lines.length !== idx-1) {
+      if (parag === "" && lines.length !== idx - 1) {
         main.append(br);
         return;
       }
@@ -76,6 +76,14 @@ fetch("texts/" + searchParams.get("artist") + "/" + searchParams.get("title"))
       });
       main.append(p);
     });
+    const back_btn = document.createElement("button");
+    const a = document.createElement("a");
+    a.classList.add("right-self");
+    a.setAttribute("href", "../");
+    back_btn.textContent = "Powrót";
+    back_btn.classList.add("pretty-btn");
+    a.append(back_btn);
+    main.append(a);
     // txt = txt.replace(/(\r\n){2}/g, "\n");
   })
   .catch((err) => {});
