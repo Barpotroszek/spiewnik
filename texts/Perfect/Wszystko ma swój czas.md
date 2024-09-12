@@ -3,7 +3,7 @@
 
 
 
-[a]  [Em] {2x}
+[a]  [e] {2x}
 
 {1. zwrotka}
 [a]A gdy przyjdzie mój [e]czas, [a]gdy pokryje mnie [e]rdza

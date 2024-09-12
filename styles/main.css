@@ -158,6 +158,18 @@ button:active {
     justify-self: center;
 }
 
+
+#PWA-download{
+    display: none;
+}
+
+@media (display-mode: standalone) {
+    
+#PWA-download{
+    display: block;
+}  
+}
+
 .cursor-pointer,
 .cursor-pointer * {
     cursor: pointer !important;

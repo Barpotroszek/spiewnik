@@ -1,5 +1,5 @@
 const PROHIBITED_FILES = /(\/_cacheOverride)|(song\.html\?)/,
-  fonts = [
+  files = [
     "https://fonts.googleapis.com/css2?family=Nerko+One&display=swap",
     "https://fonts.gstatic.com/s/nerkoone/v16/m8JQjfZSc7OXlB3ZMOjDd5RA.woff2",
     "https://fonts.gstatic.com/s/nerkoone/v16/m8JQjfZSc7OXlB3ZMOjDeZRAVmo.woff2",
@@ -13,7 +13,10 @@ const PROHIBITED_FILES = /(\/_cacheOverride)|(song\.html\?)/,
 
 const cacheResources = async (resources) => {
   const cache = await caches.open("v1.1");
-  cache.addAll(resources);
+  return Promise.allSettled(resources.map((url)=>{
+    return cache.add(url)
+      .catch("Failed to cache:", url)
+  }))
 };
 
 const addResourcesToCache = async (resources) => {
@@ -24,9 +27,7 @@ const addResourcesToCache = async (resources) => {
 const checkIfDownloaded = (url) => caches.match(url);
 
 self.addEventListener("install", (event) => {
-  const resources = [];
-  resources.push(fonts);
-  event.waitUntil(cacheResources(resources.flat()));
+  event.waitUntil(cacheResources(files).catch(console.error));
 });
 
 const notFoundPage = (res) => {
@@ -47,10 +48,41 @@ const getFromCache = (url) =>
     });
   });
 
+const fetchAllSongs = (clientId) => {
+  // NOT FETCHING BUT IT MAY BE CLOSE
+  fetch("./texts/data.json")
+    .then((d) => d.json())
+    .then((data) => {
+      
+      const resources = new Array();
+      Array.from(data).forEach((elem) => {
+        resources.push(
+          new Promise(async (res, rej) => {
+            url = ["./texts", elem.artist, elem.title + ".md"].join("/");
+            resources.push(encodeURI(url));
+            try {
+              await addResourcesToCache(url);
+              elem.downloaded = true;
+              res();
+            } catch {
+              // console.error("Error was thrown with:", url);
+              rej(url);
+            }
+          })
+        );
+      });
+      
+      Promise.allSettled(resources).then(()=>{
+        console.log("Data downloaded :>")
+        channel.postMessage("downloading-done")
+      })
+      // alert("Data fetched");
+    });
+};
+
 const fetchFirst = (url) => {
   //   Ensuring we have the latest versions and we do it's backup
-  if (/song\.html/.test(url)) 
-    url = "song.html"
+  if (/song\.html/.test(url)) url = "song.html";
   // console.debug({url})
   return fetch(url)
     .then((response) => {
@@ -65,7 +97,12 @@ const fetchFirst = (url) => {
     .catch(() => getFromCache(url));
 };
 
-self.addEventListener("message", (e)=>console.log(e))
+const channel = new BroadcastChannel("fancy-channel");
+
+channel.onmessage = (e) => {
+  if (e.data !== "download-all") return;
+  fetchAllSongs(e.clientId);
+};
 
 self.addEventListener("fetch", (e) => {
   const req = e.request,
