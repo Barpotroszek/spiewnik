@@ -46,7 +46,7 @@ fetch("texts/" + searchParams.get("artist") + "/" + searchParams.get("title"))
       document.getElementById("capo").remove();
     }
 
-    lines.forEach((parag) => {
+    lines.forEach((parag, idx) => {
       if (
         rgxs.title.test(parag) ||
         rgxs.subtitle.test(parag) ||
@@ -54,8 +54,8 @@ fetch("texts/" + searchParams.get("artist") + "/" + searchParams.get("title"))
       )
         return;
 
-      if (parag === "") {
-        document.body.append(br);
+      if (parag === "" && lines.length !== idx-1) {
+        main.append(br);
         return;
       }
       const p = document.createElement("p");
