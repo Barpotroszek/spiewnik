@@ -1,22 +1,23 @@
-const PROHIBITED_FILES = /(\/_cacheOverride)/,
+const PROHIBITED_FILES = /(\/_cacheOverride)|(song\.html\?)/,
   fonts = [
     "https://fonts.googleapis.com/css2?family=Nerko+One&display=swap",
     "https://fonts.gstatic.com/s/nerkoone/v16/m8JQjfZSc7OXlB3ZMOjDd5RA.woff2",
     "https://fonts.gstatic.com/s/nerkoone/v16/m8JQjfZSc7OXlB3ZMOjDeZRAVmo.woff2",
     "./",
-    './registerSW.js',
-    './sw.js',
+    "./registerSW.js",
+    "./sw.js",
     "./404.html",
-    './manifest.json'
+    "./manifest.json",
+    // "./song.html"
   ];
 
 const cacheResources = async (resources) => {
-  const cache = await caches.open("v1");
+  const cache = await caches.open("v1.1");
   cache.addAll(resources);
 };
 
 const addResourcesToCache = async (resources) => {
-  const cache = await caches.open("v1");
+  const cache = await caches.open("v1.1");
   await cache.add(resources);
 };
 
@@ -32,6 +33,10 @@ const notFoundPage = (res) => {
   caches.match("./404.html").then(res);
 };
 
+const songPage = (res) => {
+  caches.match("./song.html").then(res);
+};
+
 const getFromCache = (url) =>
   new Promise((res, rej) => {
     caches.match(url).then((resp) => {
@@ -42,24 +47,34 @@ const getFromCache = (url) =>
     });
   });
 
-const fetchFirst = (url) =>
+const fetchFirst = (url) => {
   //   Ensuring we have the latest versions and we do it's backup
-  fetch(url).then((response) => {
-    if (response.ok) {
-      if (!PROHIBITED_FILES.test(url))
-        // save in case of working offline
-        addResourcesToCache(url);
-    //   console.log("Fetched", response);
-      return response;
-    } else return getFromCache(url);
-  }).catch(()=>getFromCache(url));
+  if (/song\.html/.test(url)) 
+    url = "song.html"
+  // console.debug({url})
+  return fetch(url)
+    .then((response) => {
+      if (response.ok) {
+        if (!PROHIBITED_FILES.test(url))
+          // save in case of working offline
+          addResourcesToCache(url);
+        //   console.log("Fetched", response);
+        return response;
+      } else return getFromCache(url);
+    })
+    .catch(() => getFromCache(url));
+};
+
+self.addEventListener("message", (e)=>console.log(e))
 
 self.addEventListener("fetch", (e) => {
   const req = e.request,
     url = req.url;
 
   const chain = new Promise((res, rej) => {
-    fetchFirst(url).then(res).catch(()=>notFoundPage(res));
+    fetchFirst(url)
+      .then(res)
+      .catch(() => notFoundPage(res));
   });
 
   e.respondWith(chain);

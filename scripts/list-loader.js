@@ -35,6 +35,7 @@ fetch("texts/data.json").then(async (e) => {
         "href",
         "song.html?artist=" + item['artist'] + "&title=" + item["title"] + ".md"
       );
+      a.setAttribute("class", "link")
       even ? li.classList.add("even") : null;
       li.append(a);
       ul.append(li);

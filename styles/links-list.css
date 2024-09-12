@@ -1,11 +1,9 @@
 
-h3 {
+h1 {
     margin-bottom: 0;
 }
 
-ul {
-    margin-top: .7em;
-}
+ul{ margin: 0;}
 
 li.even {
     --link-color: var(--second-link-color);
