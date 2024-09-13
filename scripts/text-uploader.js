@@ -79,7 +79,7 @@ fetch("texts/" + searchParams.get("artist") + "/" + searchParams.get("title"))
     const back_btn = document.createElement("button");
     const a = document.createElement("a");
     a.classList.add("right-self");
-    a.setAttribute("href", "../");
+    a.setAttribute("href", "./");
     back_btn.textContent = "Powrót";
     back_btn.classList.add("pretty-btn");
     a.append(back_btn);
