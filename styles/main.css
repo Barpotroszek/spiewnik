@@ -70,6 +70,9 @@ body:not(.dark-theme){
         padding: 2em 1.5em;
         width: 100vw !important;
     }
+    img#logo{
+        max-width: 80vw !important;
+    }
 }
 
 @media (min-width: 670px) {
@@ -150,7 +153,7 @@ button:active {
 
 .pretty-btn{
     margin: .5em;
-    padding: .4em 3em;
+    padding: .4em 1.2em;
     color: var(--font-color-dark);
     font-weight: bolder;
     background-color: var(--header-bg);

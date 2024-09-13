@@ -18,7 +18,3 @@ ul>li::marker {
     content: '✨ ';
     margin-right: .5em;
 }
-
-a:has(.pretty-btn) {
-    width: max-content;
-}
