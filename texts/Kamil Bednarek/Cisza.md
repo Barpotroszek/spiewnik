@@ -2,7 +2,7 @@
 ## Kamil Bednarek
 
 
- ( [e] [C] [G] [h] )x4
+  [e] [C] [G] [h] {x4}
 
 [e]Siedzę wieczorem ogarn[C]ięty moją ciszą,
 on[G]i nie słyszą, a ja - ta[h]k jak w transie

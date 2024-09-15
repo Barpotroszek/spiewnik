@@ -33,7 +33,7 @@ Niedotykalną i nieprzewidywalną [F] [A]
 Poznam Cię z miłością symetryczno-liryczną  [d] [B] [F]
 I niekoniecznie czystą  [A]
 
-Przejście ( [d] [A] )
+{Przejście} [d] [A]
 
 Co ja zrobiłem, o wielkie nieba!   [d]
 Zalałem głowę Twą osobą jak narkotyk [d]
@@ -55,7 +55,7 @@ Niedotykalną i nieprzewidywalną [F] [A]
 Poznam Cię z miłością symetryczno-liryczną  [d] [B] [F]
 I niekoniecznie czystą [A]
 
-Przejście ( [d] [A] )
+{Przejście} [d] [A]
 
 Poznam Cię z miłością naturalną [d] [B]
 Niedotykalną i nieprzewidywalną [F] [A]

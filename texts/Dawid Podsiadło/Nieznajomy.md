@@ -2,15 +2,15 @@
 ## Dawid Podsiadło
 
 
-([B] [F] [g]) x2
+[B] [F] [g] {x2}
 
 [B]Witaj[F] niezna[g]jomy, p[B]ytanie do c[F]iebie m[g]am.
 Czy [B]zdążę [F]jeszcze [g]wrócić, drogi d[B]awno j[F]uż zasypał c[g]zas.
 
-Za oknem Discisza, najcichsza jaką z[g]nam.
-Taka przed Disburzą, co zrywa d[g]ach.
+Za oknem [Dis]cisza, najcichsza jaką z[g]nam.
+Taka przed [Dis]burzą, co zrywa d[g]ach.
 
-([B] [F] [g]) x2
+[B] [F] [g] {x2}
 
 [B]Witaj[F] niezna[g]jomy, nawet [B]nie wiem jak na [F]imię ma[g]sz.
 [B]Patrzę na c[F]iebie i [g]myślę: czy to [B]ja za k[F]ilka l[g]at?
@@ -21,11 +21,11 @@ Na tym pust[Dis]kowiu mieszka [g]śmierć
 Czy to t[Dis]ylko część mojego snu?
 Powiedz [g]mi
 
-Ściany się Disburzą, szyby pękają na r[g]az
+Ściany się [Dis]burzą, szyby pękają na r[g]az
 Lecę w d[Dis]ół przez błędy wszystkich [g]lat
 
 Widzę wyr[Dis]aźnie pełne rozczarowań [g]twarze
-A w oczach Disból i gniew uśpionych z[g]darzeń
+A w oczach [Dis]ból i gniew uśpionych z[g]darzeń
 
 Kłamałem wi[Dis]ęcej niż kiedykolwiek chciałbym pr[g]zyznać,
 A w moich $1[Dis]yłach płynęła krew zimniejsza niż [g]stal.

@@ -36,10 +36,10 @@ I bawi się z nimi
 Kiedy się goli
 
 
-CisOrkiFis   
-Są takie CispiękneFis   
-Tak pięknie CisskacząFis   
-Gdy polują na CissłonGisie 
+[Cis]Orki[Fis]
+Są takie [Cis]piękne[Fis]
+Tak pięknie [Cis]skaczą[Fis]
+Gdy polują na [Cis]słonGisie 
 Pan Bóg
 Zawsze się śmieje
 I macha im ręką

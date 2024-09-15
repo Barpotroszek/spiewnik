@@ -3,7 +3,7 @@
 
 
 {wstęp}
-G Fis F
+[G] [Fis] [F]
 
 [C] Mój ojciec Makumba [F]być królem [G]wioski.
 [C] Ja mieszkać w Afryka, przy[F]jechać do [G]Polski,
@@ -57,9 +57,4 @@ G Fis F
 [C] Makumba, Makumba, [a]ło le, le, le.
 [F] Makumba, Makumba,[G] Makumba-ska.
 [C] Polska - Afryka, Af[a]ryka - Polska.
-[F] Makumba, Makumba,[G] Makumba -ska.      E E C
-
-bicie w zwrotce: [C]ᐱᐱᐯᐯᐱᐯ [F]ᐱᐱᐯ [G]ᐱᐱᐯ
-     w refrenie: [F]ᐱᐱᐯᐯᐱᐯ [G]ᐱᐱᐯᐯᐱᐯ [C]ᐱᐱᐯᐯᐱᐯ [a]ᐱᐱᐯᐯᐱᐯ
-
-
+[F] Makumba, Makumba,[G] Makumba -ska.      [E] [E] =
