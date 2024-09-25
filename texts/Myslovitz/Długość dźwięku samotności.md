@@ -3,10 +3,10 @@
 > Kapodaster: Piąty Próg
 
 
-[Intro]
+{Intro}
 [C] [a] [e] [D]
 
-[Ref]
+{Ref}
 I [C]nawet kiedy będę [a]sam
 nie zmienię [e]się, to nie [D]mój świat.
 Prze[C]de mną droga, którą zn[a]am,
@@ -18,7 +18,7 @@ Idea[a]lny muszę b[G]yć
 I muszę chci[F]eć, super lu[C]z i już
 Setki bzd[a]ur i już, to nie[G] ja
 
-[Ref]
+{Ref}
 I [C]nawet kiedy będę [a]sam
 nie zmienię [e]się, to nie [D]mój świat.
 Prze[C]de mną droga, którą zn[a]am,
@@ -34,7 +34,7 @@ Tak zwy[a]czajnie, tylko [G]że
 Tutaj [F]też wiem kol[C]ejny raz
 Nie mam sz[a]ans być kim [G]chcę
 
-[Ref]
+{Ref}
 I [C]nawet kiedy będę [a]sam
 nie zmienię [e]się, to nie [D]mój świat.
 Prze[C]de mną droga, którą zn[a]am,
@@ -54,7 +54,7 @@ Chciałby [a]tak przez kilka [G]lat
 Zbyt zachł[F]annie i trochę prze[C]sadnie
 Pobyć chw[a]ilę sam, chyba go z[G]nam
 
-[Ref]
+{Ref}
 I [C]nawet kiedy będę [a]sam
 nie zmienię [e]się, to nie [D]mój świat.
 Prze[C]de mną droga, którą zn[a]am,
