@@ -2,7 +2,7 @@
 ## {In my garden} Piosenki Ludowe
 
 
-W [d]moim og[g]ródec[d]ku rośnArośn[A7]ie7ie rózy[d]cka
+W [d]moim og[g]ródec[d]ku rośn[A7]ie rózy[d]cka
 N[d]apój mi Ma[g]niusiu[d] mego[A7] kuni[d]cka
 N[F]ie chcę, Bnie napoję[C], bo si[F]ę kunia boję
 B[d]o się kunia boj[g]ę, bom [d]jesce mł[A7]oda    [d] 

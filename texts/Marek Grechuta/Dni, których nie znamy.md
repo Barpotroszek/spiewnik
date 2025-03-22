@@ -29,12 +29,12 @@
 {Przejście}
 [e]Jak rozpoznać [h]ludzi, [G]których już nie [D]znamy?
 [e]Jak pozbierać [D]myśli [G]z tych nieposkła[D]danych?
-[a]Jak oddzielić [E]naE7gle [C]serce od ro[G]zumu?
+[a]Jak oddzielić [E]na[E7]gle [C]serce od ro[G]zumu?
 [e]Jak usłyszeć [h]siebie, [G]pośród śpiewu [D]tłumu?
 
 [e]Jak rozpoznać [h]ludzi, [G]których już nie [D]znamy?
 [e]Jak pozbierać [h]myśli [G]z tych nieposkła[D]danych?
-[a]Jak odnaleźć [E]naE7gle [C]radość i na[G]dzieję?
+[a]Jak odnaleźć [E]na[E7]gle [C]radość i na[G]dzieję?
 [e]Odpowiedzi [h]szukaj, [G]czasu jest tak [D]wiele!
 
 {Ref}

@@ -2,7 +2,7 @@
 ## Kwiat Jabłoni
 
 
-d a  x2
+[d] [a]  x2
 
 Dziś późno [d]pójdę spać
 Gdy wszyscy [a]będą w łóżkach
@@ -13,7 +13,7 @@ I nie wiem [d]o czym myśleć mam
 W którym się nie [d]boję spać
 W którym się nie [a]boję spać
 
-d a  x2
+[d] [a]  x2
 
 Już na mnie [d]idzie tłum
 I depcze wszy[a]stko po drodze
@@ -28,9 +28,9 @@ Jak gdyby chciała [a]zalać świat
 Choć [F]nie chcę [g]budzić się
 Nie [C]umiem [d]spać
 Świat [F]dziwny [g]jest jak sen
-A [C]sen jak [d]świat{ x2}
+A [C]sen jak [d]świat {x2}
 
-d a  x2
+[d] [a]  {x2}
 
 Nie mogę [d]ruszyć w przód
 Nogi sklej[a]one taśmami
@@ -45,7 +45,7 @@ To wszystko chyba [a]nie jest sen
 Choć [F]nie chcę [g]budzić się
 Nie [C]umiem [d]spać
 Świat [F]dziwny [g]jest jak sen
-A [C]sen jak [d]świat{ x2}
+A [C]sen jak [d]świat {x2}
 
 
 

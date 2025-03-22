@@ -29,7 +29,7 @@ Co [F]ludzie myślą - to [G]nieistotne
 [C]Ko[G7]chaj[a7] mnie nieprzytomnie
 Jak[e] zapalniczka płomień
 Jak[F] sucha studnia[G] wodę
-F7+Kochaj mnie namię[G]tnie[a]takF7+
+[F7+]Kochaj mnie namię[G]tnie[a]tak[F7+]
 [G]Jakby świat się skończyć[C] miał
 
 [C]Swoje miejsce znajdź
@@ -47,8 +47,8 @@ Jak[F] słucha studnia[G] wodę[C]
 [C]Ko[G7]chaj[a7] mnie[G] [C]
 [C]Ko[G7]chaj[a7] mnie[G] [C]
 [C]Ko[G7]chaj[a7] mnie nieprzytomnie
-Jak [e]księżyc w oknie śmiej się i F7+płacz
-Na [G]linie nad [a]przepaścią F7+tańcz
+Jak [e]księżyc w oknie śmiej się i [F7+]płacz
+Na [G]linie nad [a]przepaścią [F7+]tańcz
 Aż w [G]jedną krótką [a]chwilę
 [F]Pojmiesz po co [G]żyjesz C
 

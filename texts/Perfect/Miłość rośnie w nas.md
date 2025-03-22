@@ -10,7 +10,7 @@ Obudzi dźwi[E]ęk[H] 
 Po promieniu światła w drogę rusz
 Chemia twego ciała znajdzie klucz
 Otworzy drzwi, magiczne drzwi
-Zobaczysz j[E]ak, zobaczysz jFis7add4ak      
+Zobaczysz j[E]ak, zobaczysz j[Fis7]a[d4]ak      
 
 {Ref:} M[H]iłość r[Hsus4]ośnie [H]w nas{ x3}
 

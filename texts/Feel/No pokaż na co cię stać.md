@@ -3,8 +3,8 @@
 > Kapodaster: Pierwszy Próg
 
 
-a F G G
-a F G G
+[a] [F] [G] [G]
+[a] [F] [G] [G]
 
 
 [a] Możesz [F]iść, a [G]szybciej niż niejeden chciałby biec.
@@ -24,7 +24,7 @@ a F G G
 [G] Słuchaj, słuchaj, jaj jaj.
 Pię[d]kne słowa mówią wszystko,
 Lecz [F]nie zmienią ni[G]c, nie zmienią nic.
-G // (dodatkowy takt)
+[G] // (dodatkowy takt)
  Nie zmienią [a]nic[F]. [G] 
  Haa [a]haaa![F]  [G] No, no, noo.
 
