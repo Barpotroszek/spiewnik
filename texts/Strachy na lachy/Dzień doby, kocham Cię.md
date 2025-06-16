@@ -3,8 +3,8 @@
 
 
 {Wstęp}
-[D] [[fis]] [D] [[fis]]
-[D] [[fis]] [D] [[fis]]
+[D] [fis] [D] [fis]
+[D] [fis] [D] [fis]
 
 {Zwr}
 Bo chodzi o to, by od [D]siebie nie upaść za da[fis]leko,

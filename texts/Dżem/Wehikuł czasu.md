@@ -2,12 +2,12 @@
 ## Dżem
 
 
-A E fis D
-A E D A
-A E fis D
-A E D A
-A E fis D
-A E D A
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
 
 [A] Pamiętam [E]dobrze [fis]ideał [D]swój
 [A] Marze[E]niami [D]żyłem jak [A]król
@@ -25,8 +25,8 @@ To [E]już mi[fis]nęło, ten [D]klimat, ten [A]luz
 [E]Wspaniali [fis]ludzie [D]nie powrócą
 [D]Nie powrócą już
 
-A E fis D
-A E D A
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
 
 [A] Lecz we mnie [E]zostało [fis]coś z tamtych [D]lat
 Mój [A]mały in[E]tymny [D]muzyczny [A]świat
@@ -44,19 +44,21 @@ To [E]już mi[fis]nęło, te [D]czasy ten [A]luz
 [E]Wspaniali [fis]ludzie [D]nie powrócą
 [D]Nie powrócą już
 
-A h A h A h A D
-A h A h A h A D
-A h A h A h A D
-A h A h A h A D
-A h A h A h A D
-A h A h A h A D
-A h A h A h A D
-A h A h A h A D
+[A] [h] [A] [h] [A] [h] [A] [D]
+[A] [h] [A] [h] [A] [h] [A] [D]
+[A] [h] [A] [h] [A] [h] [A] [D]
+[A] [h] [A] [h] [A] [h] [A] [D]
+[A] [h] [A] [h] [A] [h] [A] [D]
+[A] [h] [A] [h] [A] [h] [A] [D]
+[A] [h] [A] [h] [A] [h] [A] [D]
+[A] [h] [A] [h] [A] [h] [A] [D]
 
-A E fis D
-A E D A
-A E fis D
-A E D A
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
 
 {Ref:}
 [E] Tylko [fis]nocą [D]do klubu [A]Puls
@@ -66,22 +68,7 @@ To [E]już mi[fis]nęło, te [D]czasy ten [A]luz
 [E]Wspaniali [fis]ludzie [D]nie powrócą
 [D]Nie powrócą już
 
-A E fis D
-A E D A
-A E fis D
-A E D A / D A / D A
-
--||------------------------------------------------------||
--||------------------------------------------------------||
--||--------------------------------------2----2-4-2------||
--||--2----2------2--------------------0--0----0-0-0-4-2--||
--||--0----0-3/4---0-2--2-----------0---------------------||
--||-----------------0--0-3/4-0--2------------------------||
-
--||------------------------------------------------------||
--||------------------------------------------------------||
--||------------------------------4--2--------------------||
--||--2----2------2---------------0--0--4--2----2-0/2-0---||
--||--0----0-3/4---0-2--2---------------0--0----0--0--0---||
--||-----------------0--0--3/4-0--------------------------||
-
+[A] [E] [fis] [D]
+[A] [E] [D] [A]
+[A] [E] [fis] [D]
+[A] [E] [D] [A] / [D] [A] / [D] [A]

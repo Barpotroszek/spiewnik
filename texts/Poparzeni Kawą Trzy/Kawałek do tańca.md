@@ -23,18 +23,18 @@ Coraz [g]trudniej się wy[A]słowić.
 [g]Cały wieczór [A]mnie poc[d]iągasz,
 [g]Więc nie mówmy o po[A7]glądach.
 
-Nie wspominaj o chłopaku. [d] [[B]] [[A7]]
-Dziś Warszawa, jutro Kraków. [d] [[B]] [[A7]]
+Nie wspominaj o chłopaku. [d] [B] [A7]
+Dziś Warszawa, jutro Kraków. [d] [B] [A7]
 Zagubieni w zmysłów sieci, [g] [A] [d]
-Gdy z głośników przebój leci. [g] [[A7]]
+Gdy z głośników przebój leci. [g] [A7]
 
 {Ref.:}
 To jest do tańca kawałek...
 
-Gdy do tańca Cię wyproszę, [d] [[B]] [[A7]]
-Parkiet staje się kosmosem. [d] [[B]] [[A7]]
+Gdy do tańca Cię wyproszę, [d] [B] [A7]
+Parkiet staje się kosmosem. [d] [B] [A7]
 Trwa rytmiczna gra przedwstępna. [g] [A] [d]
-Ciężko kroki zapamiętać. [g] [[A7]]
+Ciężko kroki zapamiętać. [g] [A7]
 
 Opętani drżymy w transie.
 Trzeba wykorzystać szansę,

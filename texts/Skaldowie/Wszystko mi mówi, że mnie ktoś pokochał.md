@@ -18,7 +18,7 @@ ktoś mnie p[D]okochał, ze [G]snu mnie zbudził
 
 [e]Lampa nad [A]progiem i [e]krzesło, i [A]drzwi –
 [D]wszystko mi [G]mówi, że mnie[A] ktoś [D]pokochał.
-[G]Woda i [A]ogień fispowtarza wciąż [h]mi,
+[G]Woda i [A]ogień [fis]powtarza wciąż [h]mi,
 [G]że mnie ktoś pokochał[A] dziś.
 
 
@@ -29,7 +29,7 @@ Pukajcie z[D]e mną, bo w[G]iem na pewno,
 
 [e]Lampa nad [A]progiem i [e]krzesło, i [A]drzwi –
 [D]wszystko mi [G]mówi, że mnie[A] ktoś [D]pokochał.
-[G]Woda i [A]ogień fispowtarza wciąż [h]mi,
+[G]Woda i [A]ogień [fis]powtarza wciąż [h]mi,
 [G]że mnie ktoś pokochał[A] dziś.
 
 Pukajcie z[D]e mną w niem[G]alowane d[A]rewno, [Asus4]bo  

@@ -3,8 +3,8 @@
 
 
 Intro:
-C a  F [G7]
-C a  F [G7]
+[C] [a]  [F] [G7]
+[C] [a]  [F] [G7]
 
 [C]Che confusione, sarà perché ti amo
 [a]è un emozione, che cresce piano piano
