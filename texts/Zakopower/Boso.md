@@ -18,13 +18,17 @@ jeszcze ch[C]ce, Modna być zanim [B]cicho skona[A]
 W wielki s[C]tos piętrzą się Odło[B]żone
 każda ch[C]ce żeby ją Wziąć na d[B]rugą stronę[A]
 
+<<<<<<< HEAD
 I [B]dopiero gdy [a]zawoła [B]óg
+=======
+I [B]dopiero gdy [a]zawoła Bóg
+>>>>>>> 57d33e21b7759dbd73a5114ea2e3ac672df01d68
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
 Pójdę [C]boso
 Pójdę [C]boso
-I [B]dopiero gdy [a]zawoła [B]óg
+I [B]dopiero gdy [a]zawoła Bóg
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
@@ -37,13 +41,13 @@ Pójdę [C]boso
 W wielki s[C]tos piętrzą się Odło[B]żone
 każda ch[C]ce żeby ją Wziąć na d[B]rugą stronę[A]
 
-I [B]dopiero gdy [a]zawoła [B]óg
+I [B]dopiero gdy [a]zawoła Bóg
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
 Pójdę [C]boso
 Pójdę [C]boso
-I [B]dopiero gdy [a]zawoła [B]óg
+I [B]dopiero gdy [a]zawoła Bóg
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
@@ -57,28 +61,28 @@ Pójdę [C]boso
 [d]Nie za[C]bio[a7]rę
 
 
-I [B]dopiero gdy [a]zawoła [B]óg
+I [B]dopiero gdy [a]zawoła Bóg
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
 Pójdę [C]boso
 Pójdę [C]boso
 
-I [B]dopiero gdy [a]zawoła [B]óg
+I [B]dopiero gdy [a]zawoła Bóg
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
 Pójdę [C]boso
 Pójdę [C]boso
 
-I [B]dopiero gdy [a]zawoła [B]óg
+I [B]dopiero gdy [a]zawoła Bóg
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
 Pójdę [C]boso
 Pójdę [C]boso
 
-I [B]dopiero gdy [a]zawoła [B]óg
+I [B]dopiero gdy [a]zawoła Bóg
 To [B]pożegnam wszystkie te [a]rzeczy i znów
 Pójdę [g]boso
 Pójdę [g7]boso
